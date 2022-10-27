@@ -1,0 +1,738 @@
+Tree #,Funder,Scientific Name,Street Address,Other Add. Info.,City,Ownership,X Coordinate,Y Coordinate,Census Tract,DAC Status,Date Planted,Stock Size,planted_by
+1.0,CAL FIRE,Chitalpa tashkentensis,1749 Magnolia ,,Long Beach,Public,-118.19819,33.78861,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+2.0,CAL FIRE,Chitalpa tashkentensis,1749 Magnolia ,,Long Beach,Public,-118.19819,33.78851,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+3.0,CAL FIRE,Chitalpa tashkentensis,1640 Magnolia,,Long Beach,Public,-118.19804,33.78775,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+4.0,CAL FIRE,Chitalpa tashkentensis,1632 Magnolia,,Long Beach,Public,-118.19806,33.78765,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+5.0,CAL FIRE,Chitalpa tashkentensis,1600 Magnolia,,Long Beach,Public,-118.19801,33.78873,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+6.0,CAL FIRE,Chitalpa tashkentensis,1600 Magnolia,,Long Beach,Public,-118.19804,33.78863,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+7.0,CAL FIRE,Chitalpa tashkentensis,1600 Magnolia,,Long Beach,Public,-118.19802,33.78858,6037575401.0,1A,2019-03-19,,Conservation Corps of Long Beach
+8.0,CAL FIRE,Tristania Conferta,1726 Henderson,,Long Beach,Public,-118.19757,33.78868,6037573004.0,1A,2019-03-14,,Conservation Corps of Long Beach
+9.0,CAL FIRE,Tristania Conferta,1732 Henderson,,Long Beach,Public,-118.19756,33.78876,6037573004.0,1A,2019-03-14,,Conservation Corps of Long Beach
+10.0,CAL FIRE,Tristania Conferta,1742 Henderson,,Long Beach,Public,-118.19756,33.78885,6037573004.0,1A,2019-03-19,,Conservation Corps of Long Beach
+11.0,CAL FIRE,Tristania Conferta,1750 Henderson,,Long Beach,Public,-118.19753,33.78895,6037573004.0,1A,2019-03-14,,Conservation Corps of Long Beach
+12.0,CAL FIRE,Tristania Conferta,1756 Henderson,,Long Beach,Public,-118.19756,33.7891,6037573004.0,1A,2019-03-14,,Conservation Corps of Long Beach
+13.0,CAL FIRE,Tristania Conferta,1756 Henderson,,Long Beach,Public,-118.19757,33.78918,6037573004.0,1A,2019-03-14,,Conservation Corps of Long Beach
+14.0,CAL FIRE,Tristania Conferta,1760 Henderson,,Long Beach,Public,-118.19757,33.78926,6037573004.0,1A,2019-03-14,,Conservation Corps of Long Beach
+15.0,CAL FIRE,Ulmus Parifolia,1544  Henderson,,Long Beach,Public,-118.19777,33.7871,6037575401.0,1A,2019-03-14,,Conservation Corps of Long Beach
+16.0,CAL FIRE,Ulmus Parifolia,1542 Henderson,,Long Beach,Public,-118.19775,33.78695,6037575401.0,1A,2019-03-14,,Conservation Corps of Long Beach
+17.0,CAL FIRE,Ulmus Parifolia,1534 Henderson,,Long Beach,Public,-118.19772,33.78687,6037575401.0,1A,2019-03-14,,Conservation Corps of Long Beach
+18.0,CAL FIRE,Ulmus Parifolia,1512 Henderson,,Long Beach,Public,-118.19754,33.78647,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+19.0,CAL FIRE,Ulmus Parifolia,1512 Henderson,,Long Beach,Public,-118.19756,33.78656,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+20.0,CAL FIRE,Ulmus Parifolia,1524 Henderson,,Long Beach,Public,-118.19753,33.78667,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+21.0,CAL FIRE,Ulmus Parifolia,1528 Henderson,,Long Beach,Public,-118.19755,33.78677,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+22.0,CAL FIRE,Ulmus Parifolia,1614 Henderson,,Long Beach,Public,-118.19755,33.78743,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+23.0,CAL FIRE,Ulmus Parifolia,1630 Henderson,,Long Beach,Public,-118.19756,33.78773,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+24.0,CAL FIRE,Ulmus Parifolia,1481 Henderson,,Long Beach,Public,-118.19728,33.78577,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+25.0,CAL FIRE,Ulmus Parifolia,1447 Henderson,,Long Beach,Public,-118.1973,33.78527,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+26.0,CAL FIRE,Ulmus Parifolia,1447 Henderson,,Long Beach,Public,-118.1973,33.78527,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+27.0,CAL FIRE,Ulmus Parifolia,1441 Henderson,,Long Beach,Public,-118.1973,33.78515,6037575401.0,1A,2019-03-18,,Conservation Corps of Long Beach
+28.0,CAL FIRE,Tristania Conferta,1489 Cedar ,,Long Beach,Public,-118.19512,33.78597,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+29.0,CAL FIRE,Tristania Conferta,1495 Cedar,,Long Beach,Public,-118.1952,33.78584,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+30.0,CAL FIRE,Tristania Conferta,1501 Cedar,,Long Beach,Public,-118.19511,33.78645,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+31.0,CAL FIRE,Tristania Conferta,1529 Cedar,,Long Beach,Public,-118.19514,33.78685,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+32.0,CAL FIRE,Tristania Conferta,1529 Cedar,,Long Beach,Public,-118.19514,33.78685,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+33.0,CAL FIRE,Tristania Conferta,1530 Cedar,,Long Beach,Public,-118.19516,33.78689,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+34.0,CAL FIRE,Tristania Conferta,1532 Cedar,,Long Beach,Public,-118.19501,33.78684,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+35.0,CAL FIRE,Tristania Conferta,1541 Cedar,,Long Beach,Public,-118.19516,33.78709,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+36.0,CAL FIRE,Tristania Conferta,1541 Cedar,,Long Beach,Public,-118.19517,33.78715,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+37.0,CAL FIRE,Tristania Conferta,1601 Cedar,,Long Beach,Public,-118.19517,33.78724,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+38.0,CAL FIRE,Tristania Conferta,1624 Cedar,,Long Beach,Public,-118.19496,33.78734,6037575401.0,1A,2019-03-12,,Conservation Corps of Long Beach
+39.0,CAL FIRE,Tristania Conferta,1600 Cedar,,Long Beach,Public,-118.19496,33.78728,6037575401.0,1A,2019-03-12,,Conservation Corps of Long Beach
+40.0,CAL FIRE,Tristania Conferta,1600 Cedar,,Long Beach,Public,-118.19492,33.78716,6037575401.0,1A,2019-03-12,,Conservation Corps of Long Beach
+41.0,CAL FIRE,Tristania Conferta,1532 Cedar,,Long Beach,Public,-118.19492,33.7868,6037575401.0,1A,2019-03-27,,Conservation Corps of Long Beach
+42.0,CAL FIRE,Tristania Conferta,1749 Cedar,,Long Beach,Public,-118.195181,33.788989,6037575401.0,1A,2019-03-14,,Conservation Corps of Long Beach
+43.0,CAL FIRE,Tristania Conferta,1749 Cedar,,Long Beach,Public,-118.195192,33.789032,6037575401.0,1A,2019-03-14,,Conservation Corps of Long Beach
+44.0,CAL FIRE,Tristania Conferta,1755 Cedar,,Long Beach,Public,-118.195182,33.789105,6037575401.0,1A,2019-03-14,,Conservation Corps of Long Beach
+45.0,CAL FIRE,Tristania Conferta,1755 Cedar,,Long Beach,Public,-118.195173,33.78919,6037575401.0,1A,2019-04-03,,Conservation Corps of Long Beach
+46.0,CAL FIRE,Tristania Conferta,1777 Cedar,,Long Beach,Public,-118.195172,33.789441,6037575401.0,1A,2019-04-03,,Conservation Corps of Long Beach
+47.0,CAL FIRE,Tristania Conferta,1777 Cedar,,Long Beach,Public,-118.195167,33.789461,6037575401.0,1A,2019-04-03,,Conservation Corps of Long Beach
+48.0,CAL FIRE,Tristania Conferta,1777 Cedar,,Long Beach,Public,-118.19522,33.789513,6037575401.0,1A,2019-04-03,,Conservation Corps of Long Beach
+49.0,CAL FIRE,Tristania Conferta,1794 Cedar ,,Long Beach,Public,-118.195204,33.789545,6037575401.0,1A,2019-03-13,,Conservation Corps of Long Beach
+50.0,CAL FIRE,Tristania Conferta,1794 Cedar ,,Long Beach,Public,-118.194921,33.789476,6037575401.0,1A,2019-03-13,,Conservation Corps of Long Beach
+51.0,CAL FIRE,Tristania Conferta,1794 Cedar ,,Long Beach,Public,-118.194966,33.789446,6037575401.0,1A,2019-03-13,,Conservation Corps of Long Beach
+52.0,CAL FIRE,Tristania Conferta,1794 Cedar,,Long Beach,Public,-118.194978,33.789411,6037575401.0,1A,2019-03-13,,Conservation Corps of Long Beach
+53.0,CAL FIRE,Tristania Conferta,1794 Cedar,,Long Beach,Public,-118.194985,33.78925,6037575401.0,1A,2019-03-13,,Conservation Corps of Long Beach
+54.0,CAL FIRE,Tristania Conferta,1725 Cedar,,Long Beach,Public,-118.195005,33.788781,6037575401.0,1A,2019-04-13,,Conservation Corps of Long Beach
+55.0,CAL FIRE,Tristania Conferta,1725 Cedar,,Long Beach,Public,-118.194996,33.78874,6037575401.0,1A,2019-04-13,,Conservation Corps of Long Beach
+56.0,CAL FIRE,Tristania Conferta,1725 Cedar ,,Long Beach,Public,-118.194996,33.78874,6037575401.0,1A,2019-04-13,,Conservation Corps of Long Beach
+57.0,CAL FIRE,Tristania Conferta,1725 Cedar,,Long Beach,Public,-118.194988,33.788484,6037575401.0,1A,2019-04-13,,Conservation Corps of Long Beach
+58.0,CAL FIRE,Ulmus Parifolia,1640 Pacific,,Long Beach,Public,-118.193617,33.787937,6037575402.0,1A,2019-03-27,,Conservation Corps of Long Beach
+59.0,CAL FIRE,Ulmus Parifolia,1626 Pacific ,,Long Beach,Public,-118.193618,33.78732,6037575402.0,1A,2019-03-27,,Conservation Corps of Long Beach
+60.0,CAL FIRE,Ulmus Parifolia,1580 Pacific ,,Long Beach,Public,-118.193595,33.786933,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+61.0,CAL FIRE,Ulmus Parifolia,1568 Pacific,,Long Beach,Public,-118.193638,33.78663,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+62.0,CAL FIRE,Ulmus Parifolia,1568 Pacific,,Long Beach,Public,-118.193638,33.78663,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+63.0,CAL FIRE,Ulmus Parifolia,1548 Pacific ,,Long Beach,Public,-118.193623,33.786197,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+64.0,CAL FIRE,Ulmus Parifolia,1534 Pacific,,Long Beach,Public,-118.193602,33.78606,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+65.0,CAL FIRE,Ulmus Parifolia,1520 Pacific ,,Long Beach,Public,-118.19389,33.78568,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+66.0,CAL FIRE,Ulmus Parifolia,1520 Pacific ,,Long Beach,Public,-118.19388,33.78579,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+67.0,CAL FIRE,Ulmus Parifolia,1520 Pacific ,,Long Beach,Public,-118.19389,33.78585,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+68.0,CAL FIRE,Ulmus Parifolia,1520 Pacific ,,Long Beach,Public,-118.19389,33.78593,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+69.0,CAL FIRE,Ulmus Parifolia,1520 Pacific ,,Long Beach,Public,-118.19389,33.78593,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+70.0,CAL FIRE,Ulmus Parifolia,1520 Pacific ,,Long Beach,Public,-118.19389,33.78593,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+71.0,CAL FIRE,Chitalpa tashkentensis,215 West 15th ,,Long Beach,Public,-118.194013,33.7863,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+72.0,CAL FIRE,Chitalpa tashkentensis,215 West 15th ,,Long Beach,Public,-118.194013,33.7863,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+73.0,CAL FIRE,Ulmus Parifolia,1335 Pacific ,,Long Beach,Public,-118.19385,33.78318,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+74.0,CAL FIRE,Ulmus Parifolia,1335 Pacific ,,Long Beach,Public,-118.19385,33.78318,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+75.0,CAL FIRE,Ulmus Parifolia,1335 Pacific ,,Long Beach,Public,-118.19425,33.78366,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+76.0,CAL FIRE,Ulmus Parifolia,1340 Pacific,,Long Beach,Public,-118.19358,33.78358,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+77.0,CAL FIRE,Ulmus Parifolia,1430 Pacific ,,Long Beach,Public,-118.19359,33.78457,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+78.0,CAL FIRE,Ulmus Parifolia,1438 Pacific ,,Long Beach,Public,-118.19357,33.78964,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+79.0,CAL FIRE,Ulmus Parifolia,1438 Pacific ,,Long Beach,Public,-118.19357,33.78964,6037575402.0,1A,2019-03-25,,Conservation Corps of Long Beach
+80.0,CAL FIRE,Ulmus Parifolia,1440 Pacific ,,Long Beach,Public,-118.19357,33.78969,6037575402.0,1A,2019-03-27,,Conservation Corps of Long Beach
+81.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19431,33.78616,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+82.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19421,33.78616,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+83.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19411,33.78617,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+84.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19402,33.78619,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+85.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19407,33.78629,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+86.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19412,33.78625,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+87.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19418,33.78625,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+88.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19431,33.78627,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+89.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.19434,33.78629,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+90.0,CAL FIRE,Ulmus Parifolia,1549 Pacific ,,Long Beach,Public,-118.1944,33.78628,6037575401.0,1A,2019-03-20,,Conservation Corps of Long Beach
+91.0,CAL FIRE,Chitalpa tashkentensis,227 West 15th,,Long Beach,Public,-118.19475,33.78612,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+92.0,CAL FIRE,Chitalpa tashkentensis,227 West 15th,,Long Beach,Public,-118.19469,33.78616,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+93.0,CAL FIRE,Chitalpa tashkentensis,227 West 15th,,Long Beach,Public,-118.19463,33.78617,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+94.0,CAL FIRE,Chitalpa tashkentensis,227 West 15th,,Long Beach,Public,-118.19453,33.78617,6037575401.0,1A,2019-03-21,,Conservation Corps of Long Beach
+95.0,CAL FIRE,Jacaranda mimosifolia,420 West 17th St.,,Long Beach,Public,-118.19688,33.78809,6037575401.0,1A,2019-04-15,,Conservation Corps of Long Beach
+96.0,CAL FIRE,Jacaranda mimosifolia,1624 Chestnut Ave.,,Long Beach,Public,-118.19631,33.78767,6037575401.0,1A,2019-04-15,,Conservation Corps of Long Beach
+97.0,CAL FIRE,Jacaranda mimosifolia,1701 Chestnut Ave.,,Long Beach,Public,-118.19582,33.78772,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+98.0,CAL FIRE,Jacaranda mimosifolia,1701 Chestnut Ave.,,Long Beach,Public,-118.19656,33.78833,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+99.0,CAL FIRE,Jacaranda mimosifolia,1717 Chestnut Ave.,,Long Beach,Public,-118.1965,33.78856,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+100.0,CAL FIRE,Jacaranda mimosifolia,1731 Chestnut Ave.,,Long Beach,Public,-118.19649,33.78868,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+101.0,CAL FIRE,Jacaranda mimosifolia,1739 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78882,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+102.0,CAL FIRE,Jacaranda mimosifolia,1741 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78896,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+103.0,CAL FIRE,Jacaranda mimosifolia,1710 Chestnut Ave.,,Long Beach,Public,-118.19613,33.78836,6037575401.0,1A,2019-04-18,,Conservation Corps of Long Beach
+104.0,CAL FIRE,Jacaranda mimosifolia,1740 Chestnut Ave.,,Long Beach,Public,-118.19626,33.78877,6037575401.0,1A,2019-04-18,,Conservation Corps of Long Beach
+105.0,CAL FIRE,Jacaranda mimosifolia,1559 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78657,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+106.0,CAL FIRE,Jacaranda mimosifolia,1575 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78679,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+107.0,CAL FIRE,Jacaranda mimosifolia,1579 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78679,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+108.0,CAL FIRE,Jacaranda mimosifolia,1595 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78705,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+109.0,CAL FIRE,Jacaranda mimosifolia,1609 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78734,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+110.0,CAL FIRE,Jacaranda mimosifolia,1617 Chestnut Ave.,,Long Beach,Public,-118.19647,33.78754,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+111.0,CAL FIRE,Jacaranda mimosifolia,1629 Chestnut Ave.,,Long Beach,Public,-118.19647,33.78767,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+112.0,CAL FIRE,Jacaranda mimosifolia,1775 Chestnut Ave.,,Long Beach,Public,-118.19632,33.78942,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+113.0,CAL FIRE,Jacaranda mimosifolia,1776 Chestnut Ave.,,Long Beach,Public,-118.19632,33.7894,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+114.0,CAL FIRE,Jacaranda mimosifolia,1480 Chestnut Ave.,,Long Beach,Public,-118.15369,33.79208,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+115.0,CAL FIRE,Jacaranda mimosifolia,1480 Chestnut Ave.,,Long Beach,Public,-118.19625,33.78583,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+116.0,CAL FIRE,Jacaranda mimosifolia,1480 Chestnut Ave.,,Long Beach,Public,-118.19625,33.78587,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+117.0,CAL FIRE,Jacaranda mimosifolia,1490 Chestnut Ave.,,Long Beach,Public,-118.19625,33.78593,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+118.0,CAL FIRE,Jacaranda mimosifolia,1548 Chestnut Ave.,,Long Beach,Public,-118.19626,33.78645,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+119.0,CAL FIRE,Jacaranda mimosifolia,1402 Chestnut Ave.,,Long Beach,Public,-118.19651,33.78416,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+120.0,CAL FIRE,Jacaranda mimosifolia,1404 Chestnut Ave.,,Long Beach,Public,-118.19627,33.78414,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+121.0,CAL FIRE,Jacaranda mimosifolia,1444 Chestnut Ave.,,Long Beach,Public,-118.19623,33.78522,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+122.0,CAL FIRE,Jacaranda mimosifolia,1444 Chestnut Ave.,,Long Beach,Public,-118.19628,33.78529,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+123.0,CAL FIRE,Jacaranda mimosifolia,1456 Chestnut Ave.,,Long Beach,Public,-118.19629,33.78543,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+124.0,CAL FIRE,Jacaranda mimosifolia,1456 Chestnut Ave.,,Long Beach,Public,-118.19628,33.78548,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+125.0,CAL FIRE,Jacaranda mimosifolia,1471 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78567,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+126.0,CAL FIRE,Jacaranda mimosifolia,1473 Chestnut Ave.,,Long Beach,Public,-118.19645,33.7858,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+127.0,CAL FIRE,Tabebuia Impetiginosa,399 W.15th St.,,Long Beach,Public,-118.19602,33.78629,6037575401.0,1A,2019-05-06,,Conservation Corps of Long Beach
+128.0,CAL FIRE,Tabebuia Impetiginosa,399 W.15th St.,,Long Beach,Public,-118.19593,33.78628,6037575401.0,1A,2019-05-06,,Conservation Corps of Long Beach
+129.0,CAL FIRE,Tabebuia Impetiginosa,399 W.15th St.,,Long Beach,Public,-118.19579,33.78629,6037575401.0,1A,2019-05-06,,Conservation Corps of Long Beach
+130.0,CAL FIRE,Jacaranda mimosifolia,1320 Chestnut Ave.,,Long Beach,Public,-118.19643,33.78581,6037575401.0,1A,2019-05-06,,Conservation Corps of Long Beach
+131.0,CAL FIRE,Jacaranda mimosifolia,1320 Chestnut Ave.,,Long Beach,Public,-118.1963,33.78304,6037575401.0,1A,2019-05-06,,Conservation Corps of Long Beach
+132.0,CAL FIRE,Geijera parviflora,401 W.15th St.,,Long Beach,Public,-118.19658,33.78614,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+133.0,CAL FIRE,Geijera parviflora,401 W.15th St.,,Long Beach,Public,-118.19664,33.7863,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+134.0,CAL FIRE,Geijera parviflora,401 W.15th St.,,Long Beach,Public,-118.19655,33.7863,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+135.0,CAL FIRE,Tabebuia Impetiginosa,320 W.17th St.,,Long Beach,Public,-118.19557,33.78802,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+136.0,CAL FIRE,Tabebuia Impetiginosa,320 W.17th St.,,Long Beach,Public,-118.1955,33.78802,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+137.0,CAL FIRE,Tabebuia Impetiginosa,320 W.17th St.,,Long Beach,Public,-118.1953,33.78801,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+138.0,CAL FIRE,Tabebuia Impetiginosa,321 W.17th St.,,Long Beach,Public,-118.19554,33.78813,6037575401.0,1A,2019-05-07,,Conservation Corps of Long Beach
+139.0,CAL FIRE,Jacaranda mimosifolia,420 West 17th St.,,Long Beach,Public,-118.19688,33.78809,6037575401.0,1A,2019-04-15,,Conservation Corps of Long Beach
+140.0,CAL FIRE,Jacaranda mimosifolia,1624 Chestnut Ave.,,Long Beach,Public,-118.19631,33.78767,6037575401.0,1A,2019-04-15,,Conservation Corps of Long Beach
+141.0,CAL FIRE,Jacaranda mimosifolia,1701 Chestnut Ave.,,Long Beach,Public,-118.19582,33.78772,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+142.0,CAL FIRE,Jacaranda mimosifolia,1701 Chestnut Ave.,,Long Beach,Public,-118.19656,33.78833,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+143.0,CAL FIRE,Jacaranda mimosifolia,1717 Chestnut Ave.,,Long Beach,Public,-118.1965,33.78856,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+144.0,CAL FIRE,Jacaranda mimosifolia,1731 Chestnut Ave.,,Long Beach,Public,-118.19649,33.78868,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+145.0,CAL FIRE,Jacaranda mimosifolia,1739 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78882,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+146.0,CAL FIRE,Jacaranda mimosifolia,1741 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78896,6037575401.0,1A,2019-04-17,,Conservation Corps of Long Beach
+147.0,CAL FIRE,Jacaranda mimosifolia,1710 Chestnut Ave.,,Long Beach,Public,-118.19613,33.78836,6037575401.0,1A,2019-04-18,,Conservation Corps of Long Beach
+148.0,CAL FIRE,Jacaranda mimosifolia,1740 Chestnut Ave.,,Long Beach,Public,-118.19626,33.78877,6037575401.0,1A,2019-04-18,,Conservation Corps of Long Beach
+149.0,CAL FIRE,Jacaranda mimosifolia,1559 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78657,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+150.0,CAL FIRE,Jacaranda mimosifolia,1575 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78679,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+151.0,CAL FIRE,Jacaranda mimosifolia,1579 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78679,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+152.0,CAL FIRE,Jacaranda mimosifolia,1595 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78705,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+153.0,CAL FIRE,Jacaranda mimosifolia,1609 Chestnut Ave.,,Long Beach,Public,-118.19646,33.78734,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+154.0,CAL FIRE,Jacaranda mimosifolia,1617 Chestnut Ave.,,Long Beach,Public,-118.19647,33.78754,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+155.0,CAL FIRE,Jacaranda mimosifolia,1629 Chestnut Ave.,,Long Beach,Public,-118.19647,33.78767,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+156.0,CAL FIRE,Jacaranda mimosifolia,1775 Chestnut Ave.,,Long Beach,Public,-118.19632,33.78942,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+157.0,CAL FIRE,Jacaranda mimosifolia,1776 Chestnut Ave.,,Long Beach,Public,-118.19632,33.7894,6037575401.0,1A,2019-04-25,,Conservation Corps of Long Beach
+158.0,CAL FIRE,Jacaranda mimosifolia,1480 Chestnut Ave.,,Long Beach,Public,-118.15369,33.79208,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+159.0,CAL FIRE,Jacaranda mimosifolia,1480 Chestnut Ave.,,Long Beach,Public,-118.19625,33.78583,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+160.0,CAL FIRE,Jacaranda mimosifolia,1480 Chestnut Ave.,,Long Beach,Public,-118.19625,33.78587,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+161.0,CAL FIRE,Jacaranda mimosifolia,1490 Chestnut Ave.,,Long Beach,Public,-118.19625,33.78593,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+162.0,CAL FIRE,Jacaranda mimosifolia,1548 Chestnut Ave.,,Long Beach,Public,-118.19626,33.78645,6037575401.0,1A,2019-04-30,,Conservation Corps of Long Beach
+163.0,CAL FIRE,Jacaranda mimosifolia,1402 Chestnut Ave.,,Long Beach,Public,-118.19651,33.78416,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+164.0,CAL FIRE,Jacaranda mimosifolia,1404 Chestnut Ave.,,Long Beach,Public,-118.19627,33.78414,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+165.0,CAL FIRE,Jacaranda mimosifolia,1444 Chestnut Ave.,,Long Beach,Public,-118.19623,33.78522,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+166.0,CAL FIRE,Jacaranda mimosifolia,1444 Chestnut Ave.,,Long Beach,Public,-118.19628,33.78529,6037575401.0,1A,2019-05-02,,Conservation Corps of Long Beach
+167.0,CAL FIRE,Tristania Laurina,1601 Pine Ave.,,Long Beach,Public,-118.1926,33.78723,6037575402.0,1A,2019-10-05,,Conservation Corps of Long Beach
+168.0,CAL FIRE,Tristania Laurina,1593 Pine Ave.,,Long Beach,Public,-118.19268,33.78712,6037575402.0,1A,2019-10-06,,Conservation Corps of Long Beach
+169.0,CAL FIRE,Tristania Laurina,1593 Pine Ave.,,Long Beach,Public,-118.19262,33.78713,6037575402.0,1A,2019-10-07,,Conservation Corps of Long Beach
+170.0,CAL FIRE,Tristania Laurina,1594 Pine Ave.,,Long Beach,Public,-118.1921,33.78709,6037575402.0,1A,2019-10-08,,Conservation Corps of Long Beach
+171.0,CAL FIRE,Tristania Laurina,1594 Pine Ave.,,Long Beach,Public,-118.19201,33.7871,6037575402.0,1A,2019-10-09,,Conservation Corps of Long Beach
+172.0,CAL FIRE,Tristania Laurina,1590 Pacific Ave.,,Long Beach,Public,-118.19347,33.78711,6037575402.0,1A,2019-10-10,,Conservation Corps of Long Beach
+173.0,CAL FIRE,Tristania Laurina,1591 Pacific Ave.,,Long Beach,Public,-118.19338,33.78711,6037575402.0,1A,2019-10-11,,Conservation Corps of Long Beach
+174.0,CAL FIRE,Tristania Laurina,113 W 16th St.,,Long Beach,Public,-118.19267,33.78724,6037575402.0,1A,2019-10-12,,Conservation Corps of Long Beach
+175.0,CAL FIRE,Tristania Laurina,113 W 16th St.,,Long Beach,Public,-118.19277,33.78725,6037575402.0,1A,2019-10-13,,Conservation Corps of Long Beach
+176.0,CAL FIRE,Tristania Laurina,117 W 16th St.,,Long Beach,Public,-118.19289,33.78721,6037575402.0,1A,2019-10-14,,Conservation Corps of Long Beach
+177.0,CAL FIRE,Tristania Laurina,117 W 16th St.,,Long Beach,Public,-118.19296,33.78723,6037575402.0,1A,2019-10-15,,Conservation Corps of Long Beach
+178.0,CAL FIRE,Tristania Laurina,126 W 16th St.,,Long Beach,Public,-118.19315,33.78714,6037575402.0,1A,2019-10-16,,Conservation Corps of Long Beach
+179.0,CAL FIRE,Tristania Laurina,124 W 16th St.,,Long Beach,Public,-118.19306,33.78714,6037575402.0,1A,2019-10-17,,Conservation Corps of Long Beach
+180.0,CAL FIRE,Tristania Laurina,116 W 16th St.,,Long Beach,Public,-118.19285,33.78713,6037575402.0,1A,2019-10-18,,Conservation Corps of Long Beach
+181.0,CAL FIRE,Tristania Laurina,116 W 16th St.,,Long Beach,Public,-118.19279,33.78714,6037575402.0,1A,2019-10-19,,Conservation Corps of Long Beach
+182.0,CAL FIRE,Tristania Laurina,116 W 16th St.,,Long Beach,Public,-118.19275,33.78712,6037575402.0,1A,2019-10-20,,Conservation Corps of Long Beach
+183.0,CAL FIRE,Tristania Laurina,122 W 16th St.,,Long Beach,Public,-118.19182,33.7871,6037575402.0,1A,2019-10-21,,Conservation Corps of Long Beach
+184.0,CAL FIRE,Tristania Laurina,121 W 16th St.,,Long Beach,Public,-118.19187,33.78721,6037575402.0,1A,2019-10-22,,Conservation Corps of Long Beach
+185.0,CAL FIRE,Tristania Laurina,127 W 16th St.,,Long Beach,Public,-118.19187,33.7872,6037575402.0,1A,2019-10-23,,Conservation Corps of Long Beach
+186.0,CAL FIRE,Tristania Laurina,127 W 16th St.,,Long Beach,Public,-118.19149,33.7872,6037575402.0,1A,2019-10-24,,Conservation Corps of Long Beach
+187.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2441 14th Street,,Long Beach,Public,-118.1595495,33.7847753,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+188.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2637 14th Street,,Long Beach,Public,-118.159976,33.7846413,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+189.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2533 14 th Street,,Long Beach,Public,-118.1613644,33.7847352,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+190.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2501 14th Street,,Long Beach,Public,-118.1620038,33.7844259,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+191.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2426 14th Street,,Long Beach,Public,-118.1624208,33.7872929,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+192.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2500 14th Street,,Long Beach,Public,-118.1619903,33.7844117,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+193.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2504 14th Street,,Long Beach,Public,-118.1619873,33.7844158,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+194.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2504 14th Street,,Long Beach,Public,-118.1620396,33.7845992,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+195.0,CAL FIRE,JACARANDA MIMOSIFOLIA,2504 14th Street,,Long Beach,Public,-118.16175,33.7844144,6037575102,1A,2020-03-24,,Conservation Corps of Long Beach
+196.0,CAL FIRE,JACARANDA MIMOSIFOLIA,1501 Stanley Ave,Across from,Long Beach,Public,-118.1620192,33.7867641,6037575102,1A,2020-03-30,,Conservation Corps of Long Beach
+197.0,CAL FIRE,PISTACIA CHINENSIS,1521 Temple Ave,,Long Beach,Public,-118.1591787,33.7872484,6037575101,1A,2020-03-30,,Conservation Corps of Long Beach
+198.0,CAL FIRE,PISTACIA CHINENSIS,1700 Temple Ave,,Long Beach,Public,-118.86584,33.788502,6037575101,1A,2020-03-30,,Conservation Corps of Long Beach
+199.0,CAL FIRE,PODOCARPUS GRACILIOR,2507 Spaulding Street,,Long Beach,Public,-118.1618626,33.785511,6037575102,1A,2020-03-30,,Conservation Corps of Long Beach
+200.0,CAL FIRE,PODOCARPUS GRACILIOR,2408 Spaulding Street,,Long Beach,Public,-118.1626854,33.7858,6037575102,1A,2020-03-30,,Conservation Corps of Long Beach
+201.0,CAL FIRE,PODOCARPUS GRACILIOR,2517 Spaulding,,Long Beach,Public,-118.1617754,33.7855932,6037575102,1A,2020-03-30,,Conservation Corps of Long Beach
+202.0,CAL FIRE,QUERCUS AGRIFOLIA,1526 Sherman pl,,Long Beach,Public,-118.1659939,33.7868279,6037575101,1A,2020-03-30,,Conservation Corps of Long Beach
+203.0,CAL FIRE,QUERCUS AGRIFOLIA,1548 Sherman Pl,,Long Beach,Public,-118.1659295,33.7872799,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+204.0,CAL FIRE,QUERCUS AGRIFOLIA,1614 Sherman Pl,,Long Beach,Public,-118.1660948,33.7875574,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+205.0,CAL FIRE,QUERCUS AGRIFOLIA,1624 Sherman Pl,,Long Beach,Public,-118.1655805,33.7876502,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+206.0,CAL FIRE,QUERCUS AGRIFOLIA,1772 Sherma Pl,,Long Beach,Public,-118.1660388,33.7894572,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+207.0,CAL FIRE,QUERCUS AGRIFOLIA,1771 Sherman pl,Next to ,Long Beach,Public,-118.1662913,33.7896233,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+208.0,CAL FIRE,QUERCUS AGRIFOLIA,1755 Sherman pl,,Long Beach,Public,-118.1662712,33.7891741,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+209.0,CAL FIRE,QUERCUS AGRIFOLIA,1617 Sherman Pl,,Long Beach,Public,-118.1663523,33.7876232,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+210.0,CAL FIRE,QUERCUS AGRIFOLIA,1611 Sherman Pl,,Long Beach,Public,-118.1662745,33.7873504,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+211.0,CAL FIRE,QUERCUS AGRIFOLIA,1607 Sherman Pl,,Long Beach,Public,-118.1663748,33.7872562,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+212.0,CAL FIRE,QUERCUS AGRIFOLIA,1511 Sherman Pl,,Long Beach,Public,-118.1662316,33.7866033,6037575101,1A,2020-03-31,,Conservation Corps of Long Beach
+213.0,CAL FIRE,Tristania Conferta,1400 Orange Ave,,Long Beach,Public,-118.1762433,33.7847645,6037575201,1A,2020-02-25,,Conservation Corps of Long Beach
+214.0,CAL FIRE,Tristania Conferta,1446 Orange Ave,,Long Beach,Public,-118.176198,33.7854146,6037575201,1A,2020-02-25,,Conservation Corps of Long Beach
+215.0,CAL FIRE,Tristania Conferta,1730 Walnut Ave,,Long Beach,Public,-118.1717616,33.7886907,6037575202,1A,2020-03-09,,Conservation Corps of Long Beach
+216.0,CAL FIRE,Tristania Conferta,1382 Dawson Ave,,Long Beach,Public,-118.165384,33.7842748,6037575102,1A,2020-03-09,,Conservation Corps of Long Beach
+217.0,CAL FIRE,Tristania Conferta,1726 Freeman Ave,,Long Beach,Public,-118.155767,33.788353,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+218.0,CAL FIRE,Tristania Conferta,1718 Freeman Ave,,Long Beach,Public,-118.1556,33.788509,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+219.0,CAL FIRE,Tristania Conferta,1718 Freeman Ave,,Long Beach,Public,-118.155589,33.788497,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+220.0,CAL FIRE,Tristania Conferta,1710 Freeman Ave,,Long Beach,Public,-118.155602,33.788415,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+221.0,CAL FIRE,Tristania Conferta,1710 Freeman Ave,,Long Beach,Public,-118.155607,33.788338,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+222.0,CAL FIRE,Tristania Conferta,1537 Freeman Ave,,Long Beach,Public,-118.155798,33.786871,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+223.0,CAL FIRE,Tristania Conferta,1537 Freeman Ave,,Long Beach,Public,-118.155755,33.786913,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+224.0,CAL FIRE,Tristania Conferta,1537 Freeman Ave,,Long Beach,Public,-118.155759,33.786981,6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+225.0,CAL FIRE,Tristania Conferta,1609 Freeman Ave,,Long Beach,Public,-118.155716,33.787421,6037575103,1A,2020-02-26,,Conservation Corps of Long Beach
+226.0,CAL FIRE,Tristania Conferta,2701 17TH Street,,Long Beach,Public,-118.159804,33.7881551,6037575101,1A,2020-02-26,,Conservation Corps of Long Beach
+227.0,CAL FIRE,Tristania Conferta,2615 17th Street,,Long Beach,Public,-118.1605547,33.7881919,6037575101,1A,2020-02-26,,Conservation Corps of Long Beach
+228.0,CAL FIRE,Tristania Conferta,2512 17th Street,,Long Beach,Public,-118.1616115,33.78778784,6037575101,1A,2020-02-26,,Conservation Corps of Long Beach
+229.0,CAL FIRE,Tristania Conferta,1766 Molino Ave,,Long Beach,Public,-118.1610348,33.7890083,6037575101,1A,2020-02-26,,Conservation Corps of Long Beach
+230.0,CAL FIRE,Tristania Conferta,1766 Molino Ave,,Long Beach,Public,-118.1610348,33.7890083,6037575101,1A,2020-02-26,,Conservation Corps of Long Beach
+231.0,CAL FIRE,Tristania Conferta,1769 Molino Ave,,Long Beach,Public,-118.1611743,33.7893658,6037575101,1A,2020-02-26,,Conservation Corps of Long Beach
+232.0,CAL FIRE,Tristania Conferta,1335 Newport Ave,,Long Beach,Public,-118.151358,33.783754, 6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+233.0,CAL FIRE,Tristania Conferta,1335 Newport Ave,,Long Beach,Public,-118.151395,33.783709, 6037575103,1A,2020-02-25,,Conservation Corps of Long Beach
+234.0,CAL FIRE,Tristania Conferta,1380 Newport Ave,,Long Beach,Public,-118.1513088,33.784094, 6037575103,1A,2020-03-09,,Conservation Corps of Long Beach
+235.0,CAL FIRE,Tristania Conferta,3320 Ransom Ave,,Long Beach,Public,-118.53006,33.786654, 6037575103,1A,2020-03-09,,Conservation Corps of Long Beach
+236.0,CAL FIRE,Tristania Conferta,3320 Ransom Ave,,Long Beach,Public,-118.152927,33.786636, 6037575103,1A,2020-03-09,,Conservation Corps of Long Beach
+237.0,CAL FIRE,Lagerstroemia,1701 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.783,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+238.0,CAL FIRE,Lagerstroemia,1701 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7834,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+239.0,CAL FIRE,Lagerstroemia,1404 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.784,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+240.0,CAL FIRE,Lagerstroemia,1502 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7857,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+241.0,CAL FIRE,Lagerstroemia,1502 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7859,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+242.0,CAL FIRE,Lagerstroemia,1650 Santa Fe Ave. ,,Long Beach,Public,-118.2158,33.7866,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+243.0,CAL FIRE,Lagerstroemia,1680 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7867,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+244.0,CAL FIRE,Lagerstroemia,1680 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7881,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+245.0,CAL FIRE,Lagerstroemia,1724 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7889,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+246.0,CAL FIRE,Lagerstroemia,1749 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7892,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+247.0,CAL FIRE,Lagerstroemia,1749 Santa Fe Ave. ,,Long Beach,Public,-118.2153,33.7893,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+248.0,CAL FIRE,Lagerstroemia,1974 Santa Fe Ave. ,,Long Beach,Public,-118.2154,33.7934,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+249.0,CAL FIRE,Lagerstroemia,1903 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7927,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+250.0,CAL FIRE,Lagerstroemia,1903 Santa Fe Ave. ,,Long Beach,Public,-118.2155,33.7921,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+251.0,CAL FIRE,Lagerstroemia,1749 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7892,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+252.0,CAL FIRE,Lagerstroemia,1749 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7891,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+253.0,CAL FIRE,Lagerstroemia,1735 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7887,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+254.0,CAL FIRE,Lagerstroemia,1735 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7885,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+255.0,CAL FIRE,Lagerstroemia,1735 Santa Fe Ave. ,,Long Beach,Public,-118.2155,33.7885,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+256.0,CAL FIRE,Lagerstroemia,1655 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7882,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+257.0,CAL FIRE,Lagerstroemia,1655 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7881,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+258.0,CAL FIRE,Lagerstroemia,1655 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7879,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+259.0,CAL FIRE,Lagerstroemia,1655 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7878,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+260.0,CAL FIRE,Lagerstroemia,1581 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7878,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+261.0,CAL FIRE,Lagerstroemia,1581 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7869,6037575500,1A,2020-03-16,,Conservation Corps of Long Beach
+262.0,CAL FIRE,Lagerstroemia,1565 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7867,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+263.0,CAL FIRE,Lagerstroemia,1539 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7866,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+264.0,CAL FIRE,Lagerstroemia,1539 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7865,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+265.0,CAL FIRE,Lagerstroemia,1539 Santa Fe Ave. ,,Long Beach,Public,-118.2157,33.7865,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+266.0,CAL FIRE,Lagerstroemia,1539 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7864,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+267.0,CAL FIRE,Lagerstroemia,1539 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7862,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+268.0,CAL FIRE,Lagerstroemia,1539 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7861,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+269.0,CAL FIRE,Lagerstroemia,1525 Santa Fe Ave. ,,Long Beach,Public,-118.2155,33.786,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+270.0,CAL FIRE,Lagerstroemia,1525 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.786,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+271.0,CAL FIRE,Lagerstroemia,1525 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7859,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+272.0,CAL FIRE,Lagerstroemia,1501 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7856,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+273.0,CAL FIRE,Lagerstroemia,1451 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7852,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+274.0,CAL FIRE,Lagerstroemia,1445 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.785,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+275.0,CAL FIRE,Lagerstroemia,1425 Santa Fe Ave. ,,Long Beach,Public,-118.2156,33.7845,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+276.0,CAL FIRE,Lagerstroemia,1419 Santa Fe Ave,,Long Beach,Public,-118.2155,33.7842,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+277.0,CAL FIRE,Lagerstroemia,1701 Santa Fe Ave,,Long Beach,Public,-118.2155,33.7835,6037575500,1A,2020-03-23,,Conservation Corps of Long Beach
+278.0,CAL FIRE,Tristania Conferta,134 15th Street,,Long Beach,Public,-118.191624,33.785274,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+279.0,CAL FIRE,Tristania Conferta,134 15th Street,,Long Beach,Public,-118.19566,33.78525,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+280.0,CAL FIRE,Tristania Conferta,1530 Locust Ave,,Long Beach,Public,-118.191057,33.785986,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+281.0,CAL FIRE,Tristania Conferta,1417 Locust Ave,,Long Beach,Public,-118.191159,33.784367,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+282.0,CAL FIRE,Tristania Conferta,1419 Locust Ave,,Long Beach,Public,-118.191186,33.784345,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+283.0,CAL FIRE,Tristania Conferta,1431 Locust Ave,,Long Beach,Public,-118.191193,33.784532,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+284.0,CAL FIRE,Tristania Conferta,1530 Locust Ave,,Long Beach,Public,-118.190977,33.785912,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+285.0,CAL FIRE,Tristania Conferta,1530 Locust Ave,,Long Beach,Public,-118.1911362,33.7858997,6037575402,1A,2020-02-12,,Conservation Corps of Long Beach
+286.0,CAL FIRE,Tristania Conferta,1712 Lemon Ave,Across from ,Long Beach,Public,-118.1785168,33.7884683,6037575201,1A,2020-02-12,,Conservation Corps of Long Beach
+287.0,CAL FIRE,Tristania Conferta,1703 Lemon Ave,,Long Beach,Public,-118.1784715,33.7884789,6037575201,1A,2020-02-12,,Conservation Corps of Long Beach
+288.0,CAL FIRE,Tristania Conferta,1728 Lemon Ave,,Long Beach,Public,-118.1783166,33.7890746,6037575201,1A,2020-02-12,,Conservation Corps of Long Beach
+289.0,CAL FIRE,Tristania Conferta,1342 Lewis Ave,Next Door ,Long Beach,Public,-118.1798951,33.7835327,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+290.0,CAL FIRE,Tristania Conferta,1348 Lewis Ave,,Long Beach,Public,-118.1799532,33.7838109,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+291.0,CAL FIRE,Tristania Conferta,1374 Lewis Ave,,Long Beach,Public,-118.1799102,33.7890107,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+292.0,CAL FIRE,Tristania Conferta,1378 Lewis Ave,,Long Beach,Public,-118.180001,33.7841787,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+293.0,CAL FIRE,Tristania Conferta,1396 Lewis Ave,,Long Beach,Public,-118.1799461,33.7845287,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+294.0,CAL FIRE,Tristania Conferta,1402 Lewis Ave,,Long Beach,Public,-118.1799953,33.7845106,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+295.0,CAL FIRE,Tristania Conferta,1493 Lemon Ave,,Long Beach,Public,-118.1790975,33.7859621,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+296.0,CAL FIRE,Tristania Conferta,1477 Lemon Ave,,Long Beach,Public,-118.1788749,33.7856854,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+297.0,CAL FIRE,Tristania Conferta,1353 Lemon Ave,,Long Beach,Public,-118.1788386,33.7838588,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+298.0,CAL FIRE,Tristania Conferta,1324 Lemon Ave,,Long Beach,Public,-118.1789955,33.7831162,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+299.0,CAL FIRE,Tristania Conferta,1402 Lemon Ave,,Long Beach,Public,-118.1786895,33.7839508,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+300.0,CAL FIRE,Tristania Conferta,1452 Lemon Ave,,Long Beach,Public,-118.1790281,33.7851264,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+301.0,CAL FIRE,Tristania Conferta,1025 16th Street,Across From ,Long Beach,Public,-118.1799461,33.7867956,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+302.0,CAL FIRE,Tristania Conferta,1025 16th Street,Across From ,Long Beach,Public,-118.1801295,33.7870943,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+303.0,CAL FIRE,Tristania Conferta,1110 16th Street,,Long Beach,Public,-118.1783733,33.7872406,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+304.0,CAL FIRE,Tristania Conferta,1161 16th Street,,Long Beach,Public,-118.1772115,33.77872222,6037575201,1A,2020-02-18,,Conservation Corps of Long Beach
+305.0,CAL FIRE,Tristania Conferta,1149 16th Street,,Long Beach,Public,-118.1773333,33.7872523,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+306.0,CAL FIRE,Tristania Conferta,1035 15th Street,,Long Beach,Public,-118.1796674,33.7863645,6037575201,1A,2020-02-13,,Conservation Corps of Long Beach
+307.0,CAL FIRE,Quercus Virginana,1630 E 14th St,,Long Beach,Public,-118.17095,33.7844,6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+308.0,CAL FIRE,Quercus Virginana,1347 Gaviota ,,Long Beach,Public,-118.17093,33.78363,6037575202,1A,2020-04-15,,Conservation Corps of Long Beach
+309.0,CAL FIRE,Quercus Virginana,1347 Gaviota ,Next Door 1347,Long Beach,Public,-118.17069,33.78346,6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+310.0,CAL FIRE,Quercus Virginana,1402 Gaviota ,,Long Beach,Public,-118.17087,33.78467,6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+311.0,CAL FIRE,Quercus Virginana,1410 Gaviota,,Long Beach,Public,-118.17057,33.78479,6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+312.0,CAL FIRE,Quercus Virginana,1709 Gaviota ,,Long Beach,Public,-118.17078,33.78829,6037575202,1A,2020-04-23,,Conservation Corps of Long Beach
+313.0,CAL FIRE,Quercus Virginana,1527 Gaviota ave ,,Long Beach,Public,-118.1709,33.78685, 6037575202,1A,2020-04-15,,Conservation Corps of Long Beach
+314.0,CAL FIRE,Quercus Virginana,1522 Rose ave  ,,Long Beach,Public,-118.1697,33.78669, 6037575202,1A,2020-04-13,,Conservation Corps of Long Beach
+315.0,CAL FIRE,Quercus Virginana,1516 Rose ave ,,Long Beach,Public,-118.16971,33.78664, 6037575202,1A,2020-04-13,,Conservation Corps of Long Beach
+316.0,CAL FIRE,Quercus Virginana,1464 Rose ave ,,Long Beach,Public,-118.16968,33.78566, 6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+317.0,CAL FIRE,Quercus Virginana,1456 Rose ave ,,Long Beach,Public,-118.16975,33.78549, 6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+318.0,CAL FIRE,Quercus Virginana,1426 Rose ave ,,Long Beach,Public,-118.16953,33.78497, 6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+319.0,CAL FIRE,Quercus Virginana,1408 Rose ave,,Long Beach,Public,-118.16977,33.78482, 6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+320.0,CAL FIRE,Quercus Virginana,1400 Rose ave,,Long Beach,Public,-118.16935,33.78463, 6037575202,1A,2020-04-14,,Conservation Corps of Long Beach
+321.0,CAL FIRE,Quercus Virginana,1337 Rose ave,,Long Beach,Public,-118.16977,33.78377, 6037575202,1A,2020-04-15,,Conservation Corps of Long Beach
+322.0,CAL FIRE,Quercus Virginana,1353 Rose ave,,Long Beach,Public,-118.16981,33.78383, 6037575202,1A,2020-04-15,,Conservation Corps of Long Beach
+323.0,CAL FIRE,Quercus Virginana,1359 Rose ave,,Long Beach,Public,-118.16985,33.784, 6037575202,1A,2020-04-15,,Conservation Corps of Long Beach
+324.0,CAL FIRE,Quercus Virginana,1390 cherry ave ,14th street,Long Beach,Public,-118.16739,33.7843,6037575102,1A,2020-04-20,,Conservation Corps of Long Beach
+325.0,CAL FIRE,Quercus Virginana,2211 1/2 14th street,across 2211 1/2 ,Long Beach,Public,-118.16511,33.78453,6037575102,1A,2020-04-21,,Conservation Corps of Long Beach
+326.0,CAL FIRE,Quercus Virginana,2220 E14th street,,Long Beach,Public,-118.16419,33.78442,6037702201,1A,2020-04-21,,Conservation Corps of Long Beach
+327.0,CAL FIRE,Quercus Virginana,2324 E14th street,,Long Beach,Public,-118.16339,33.78453, 6037575102,1A,2020-04-22,,Conservation Corps of Long Beach
+328.0,CAL FIRE,Quercus Virginana,1350 E 14th street ,,Long Beach,Public,-118.17148,33.78435,6037575201,1A,2020-04-22,,Conservation Corps of Long Beach
+329.0,CAL FIRE,Quercus Virginana,1841 E 14th street,14th/Gardenia ,Long Beach,Public,-118.16923,33.7846,6037575202,1A,2020-04-20,,Conservation Corps of Long Beach
+330.0,CAL FIRE,Quercus Virginana, 1717 E 14th street,,Long Beach,Public,-118.17047,33.78449, 6037575202,1A,2020-04-22,,Conservation Corps of Long Beach
+331.0,CAL FIRE,Quercus Virginana,1715 E 14th street ,,Long Beach,Public,-118.17043,33.78448,6037575202,1A,2020-04-22,,Conservation Corps of Long Beach
+332.0,CAL FIRE,Quercus Virginana,1630 E 14th street ,,Long Beach,Public,-118.1712,33.78449,6037575202,1A,2020-04-23,,Conservation Corps of Long Beach
+333.0,CAL FIRE,Quercus Virginana,1605 E 15th street ,across from 1605 E,Long Beach,Public,-118.17145,33.78626,6037575202,1A,2020-04-21,,Conservation Corps of Long Beach
+334.0,CAL FIRE,Quercus Virginana,1485 E Gaviota Ave ,,Long Beach,Public,-118.17149,33.78627,6037575202,1A,2020-04-22,,Conservation Corps of Long Beach
+335.0,CAL FIRE,Quercus Virginana,3434 Ransom Ave ,,Long Beach,Public,-118.15796,33.7866,6037575103,1A,2020-04-23,,Conservation Corps of Long Beach
+336.0,CAL FIRE,Quercus Virginana,1601 Loma ave ,,Long Beach,Public,-118.15051,33.78675,6037575103,1A,2020-04-23,,Conservation Corps of Long Beach
+337.0,CAL FIRE,Quercus Virginana,3437 ransom ave ,,Long Beach,Public,-118.15168,33.78651,6037575103,1A,2020-04-23,,Conservation Corps of Long Beach
+338.0,CAL FIRE,Quercus Virginana,3437 ransom ave ,,Long Beach,Public,-118.15154,33.7868,6037575103,1A,2020-04-22,,Conservation Corps of Long Beach
+339.0,CAL FIRE,Quercus Virginana,3501 ransom ave ,,Long Beach,Public,-118.15143,33.78676,6037575103,1A,2020-04-22,,Conservation Corps of Long Beach
+340.0,CAL FIRE,Tristania Conferta,2035 15th street ,,Long Beach,Public,-118.16632,33.78639,6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+341.0,CAL FIRE,Ulmas Pavifolia,2025 15th street ,,Long Beach,Public,-118.16667,33.78641,6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+342.0,CAL FIRE,Ulmas Pavifolia,2206 15th street ,,Long Beach,Public,-118.16538,33.78615,6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+343.0,CAL FIRE,Ulmas Pavifolia,2330 15th street ,,Long Beach,Public,-118.16391,33.78628,6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+344.0,CAL FIRE,Ulmas Pavifolia,2345 15th street ,,Long Beach,Public,-118.163423,33.78628,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+345.0,CAL FIRE,Tristania Conferta,2301 15th street ,,Long Beach,Public,-118.16416,33.78635,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+346.0,CAL FIRE,Tristania Conferta,2212 15th street ,Across from 2212 stanton pl,Long Beach,Public,-118.16491,33.7864,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+347.0,CAL FIRE,Tristania Conferta,1825 E 15th street ,,Long Beach,Public,-118.16897,33.7863,6037575202,1A,2020-05-05,,Conservation Corps of Long Beach
+348.0,CAL FIRE,Tristania Conferta,2125 15th street ,,Long Beach,Public,-118.16553,33.78623,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+349.0,CAL FIRE,Tristania Conferta,2115 15th street ,,Long Beach,Public,-118.1658309,33.78636,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+350.0,CAL FIRE,Chitalpa tashkentensis,2906 15th street ,,Long Beach,Public,-118.157673,33.7862,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+351.0,CAL FIRE,Chitalpa tashkentensis,2912 15th street ,,Long Beach,Public,-118.157504,33.78619,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+352.0,CAL FIRE,Pistacia Chinensis,2844 15th street ,,Long Beach,Public,-118.1579,33.78614,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+353.0,CAL FIRE,Cinnamomum camphora,2840 15th street ,,Long Beach,Public,-118.158,33.78614,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+354.0,CAL FIRE,Tristania Conferta,2836 15th street ,,Long Beach,Public,-118.15816,33.788013,6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+355.0,CAL FIRE,Tristania Conferta,17th street /obisbo,across from combodian church ,Long Beach,Public,-118.15874,33.78795,6037575002,1A,2020-05-02,,Conservation Corps of Long Beach
+356.0,CAL FIRE,Tristania Conferta,17th street/obispo ,,Long Beach,Public,-118.15874,33.78795,6037575002,1A,2020-05-06,,Conservation Corps of Long Beach
+357.0,CAL FIRE,Tristania Conferta,2819 17th,across from 2819 17th,Long Beach,Public,-118.15865,33.78399,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+358.0,CAL FIRE,Tristania Conferta,2819 17th street ,,Long Beach,Public,-118.15853,33.78796,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+359.0,CAL FIRE,Tristania Conferta,2901 17th street ,across 2901 17th street,Long Beach,Public,-118.15844,33.78799,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+360.0,CAL FIRE,Tristania Conferta,2901 17th street ,,Long Beach,Public,-118.15811,33.78796,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+361.0,CAL FIRE,Tristania Conferta,2901 17th street,,Long Beach,Public,-118.15791,33.78797,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+362.0,CAL FIRE,Tristania Conferta,2901 17th street,,Long Beach,Public,-118.15783,33.89797,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+363.0,CAL FIRE,Tristania Conferta,across 2901 17th street,,Long Beach,Public,-118.15779,33.78798,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+364.0,CAL FIRE,Tristania Conferta,across 2905 17th street,,Long Beach,Public,-118.15767,33.78801,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+365.0,CAL FIRE,Tristania Conferta,across 2905 17th street,,Long Beach,Public,-118.15755,33.78799,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+366.0,CAL FIRE,Quercus Virginana,across 2925 17th street,,Long Beach,Public,-118.15744,33.788,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+367.0,CAL FIRE,Quercus Virginana,across 2925 17th street,,Long Beach,Public,-118.15721,33.78571,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+368.0,CAL FIRE,Quercus Virginana,3524 15th,14th and loma ,Long Beach,Public,-118.15709,33.78917,6037575103,1A,2020-05-07,,Conservation Corps of Long Beach
+369.0,CAL FIRE,Quercus Virginana,2799 15th street ,,Long Beach,Public,-118.15067,33.78639, 6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+370.0,CAL FIRE,Quercus Virginana,1761 Gladys street,,Long Beach,Public,-118.15903,33.78926,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+371.0,CAL FIRE,Quercus Virginana,1763 rose ave ,rose/pch,Long Beach,Public,-118.15797,33.78949,6037575202,1A,2020-05-07,,Conservation Corps of Long Beach
+372.0,CAL FIRE,Quercus Virginana,1777 rose ave ,,Long Beach,Public,-118.16977,33.78801,6037575202,1A,2020-05-07,,Conservation Corps of Long Beach
+373.0,CAL FIRE,Quercus Virginana,2652 15th street,,Long Beach,Public,-118.15989,33.78627,6037575102,1A,2020-05-12,,Conservation Corps of Long Beach
+374.0,CAL FIRE,Tilia Americana,2652 15th street,,Long Beach,Public,-118.1598,33.78615,6037575102,1A,2020-05-11,,Conservation Corps of Long Beach
+375.0,CAL FIRE,Tilia Cordata ,1785 orizaba ave ,,Long Beach,Public,-118.15687,33.78964,6037573403,1A,2020-05-11,,Conservation Corps of Long Beach
+376.0,CAL FIRE,Tilia Cordata ,1785 orizaba ave ,,Long Beach,Public,-118.15684,33.78955,6037573403,1A,2020-05-11,,Conservation Corps of Long Beach
+377.0,CAL FIRE,Tilia Cordata ,1775 orizaba ave,,Long Beach,Public,-118.15684,33.78954,6037573403,1A,2020-05-11,,Conservation Corps of Long Beach
+378.0,CAL FIRE,Tilia Cordata ,1775 orizaba ave,,Long Beach,Public,-118.15684,33.78948,6037573403,1A,2020-05-11,,Conservation Corps of Long Beach
+379.0,CAL FIRE,Tilia Cordata ,1662 orizaba ave ,,Long Beach,Public,-118.1567,33.78765,6037573403,1A,2020-05-11,,Conservation Corps of Long Beach
+380.0,CAL FIRE,Umbrellularia Californica,1439 Newport ave ,,Long Beach,Public,-118.15132,33.785,6037575103,1A,2020-05-11,,Conservation Corps of Long Beach
+381.0,CAL FIRE,Umbrellularia Californica,1431 Newport ave,,Long Beach,Public,-118.1514,33.78495,6037575103,1A,2020-05-11,,Conservation Corps of Long Beach
+382.0,CAL FIRE,Casuarina cunninghamiana,1727 Pine ave ,,Long Beach,Public,-118.19253,33.78861,6037575402,1A,2020-05-21,,Conservation Corps of Long Beach
+383.0,CAL FIRE,Casuarina cunninghamiana,1727 Pine ave ,,Long Beach,Public,-118.19249,33.78853,6037575402,1A,2020-05-21,,Conservation Corps of Long Beach
+384.0,CAL FIRE,Casuarina cunninghamiana,1727 Pine ave ,,Long Beach,Public,-118.19253,33.78821,6037575402,1A,2020-05-27,,Conservation Corps of Long Beach
+385.0,CAL FIRE,Casuarina cunninghamiana,1701 Pine ave ,,Long Beach,Public,-118.19235,33.78825,6037575402,1A,2020-05-27,,Conservation Corps of Long Beach
+386.0,CAL FIRE,Casuarina cunninghamiana,1700 Pine ave ,,Long Beach,Public,-118.1923,33.78812,6037575402,1A,2020-05-21,,Conservation Corps of Long Beach
+387.0,CAL FIRE,Casuarina cunninghamiana,1650 Pine ave ,,Long Beach,Public,-118.1922,33.78803,6037575402,1A,2020-05-21,,Conservation Corps of Long Beach
+388.0,CAL FIRE,Casuarina cunninghamiana,1650 Pine ave ,,Long Beach,Public,-118.19227,33.78852,6037575402,1A,2020-05-21,,Conservation Corps of Long Beach
+389.0,CAL FIRE,Casuarina cunninghamiana,1718 Pine ave ,,Long Beach,Public,-118.19227,33.78844,6037575402,1A,2020-05-27,,Conservation Corps of Long Beach
+390.0,CAL FIRE,Casuarina cunninghamiana,1718 Pine ave ,,Long Beach,Public,-118.1923,33.78928,6037575402,1A,2020-05-26,,Conservation Corps of Long Beach
+391.0,CAL FIRE,Casuarina cunninghamiana,1770 pine ave ,,Long Beach,Public,-118.19231,33.78922,6037575402,1A,2020-05-26,,Conservation Corps of Long Beach
+392.0,CAL FIRE,Casuarina cunninghamiana,1758 pine ave ,,Long Beach,Public,-118.19228,33.78914,6037575402,1A,2020-05-26,,Conservation Corps of Long Beach
+393.0,CAL FIRE,Casuarina cunninghamiana,1758 pine ave ,,Long Beach,Public,-118.19246,33.78909,6037575402,1A,2020-05-26,,Conservation Corps of Long Beach
+394.0,CAL FIRE,Casuarina cunninghamiana,1755 pine ave ,,Long Beach,Public,-118.19249,33.7899,6037575402,1A,2020-05-26,,Conservation Corps of Long Beach
+395.0,CAL FIRE,Casuarina cunninghamiana,1751 pine ave ,,Long Beach,Public,-118.19231,33.7899,6037575402,1A,2020-05-26,,Conservation Corps of Long Beach
+396.0,CAL FIRE,Casuarina cunninghamiana,1580 pine ave,,Long Beach,Public,-118.19231,33.78674,6037575402,1A,2020-05-27,,Conservation Corps of Long Beach
+397.0,CAL FIRE,Casuarina cunninghamiana,1586 pine ave ,,Long Beach,Public,-118.19248,33.78685,6037575402,1A,2020-05-27,,Conservation Corps of Long Beach
+398.0,CAL FIRE,Casuarina cunninghamiana,1771 pine ave ,,Long Beach,Public,-118.18665,33.7893,6037575402,1A,2020-05-27,,Conservation Corps of Long Beach
+399.0,CAL FIRE,Casuarina cunninghamiana,1774 linden ave ,,Long Beach,Public,-118.18663,33.78947,6037575300,1A,2020-05-27,,Conservation Corps of Long Beach
+400.0,CAL FIRE,Casuarina cunninghamiana,1626 linden ave ,,Long Beach,Public,-118.1924,33.78784,6037575300,1A,2020-05-27,,Conservation Corps of Long Beach
+401.0,CAL FIRE,Tristania Conferta,2035 15th street ,,Long Beach,Public,-118.16632,33.78639,6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+402.0,CAL FIRE,Ulmas Pavifolia,2025 15th street ,,Long Beach,Public,-118.16667,33.78641, 6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+403.0,CAL FIRE,Ulmas Pavifolia,2206 15th street ,,Long Beach,Public,-118.16538,33.78615, 6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+404.0,CAL FIRE,Ulmas Pavifolia,2330 15th street ,,Long Beach,Public,-118.16391,33.78628, 6037575101,1A,2020-05-04,,Conservation Corps of Long Beach
+405.0,CAL FIRE,Ulmas Pavifolia,2345 15th street ,,Long Beach,Public,-118.16342,33.78628, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+406.0,CAL FIRE,Tristania Conferta,2301 15th street ,,Long Beach,Public,-118.16342,33.78635, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+407.0,CAL FIRE,Tristania Conferta,2212 15th street ,,Long Beach,Public,-118.16491,33.7864, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+408.0,CAL FIRE,Tristania Conferta,1825 E 15th street ,,Long Beach,Public,-118.16416,33.78617, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+409.0,CAL FIRE,Tristania Conferta,2125 15th street ,,Long Beach,Public,-118.16491,33.78623, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+410.0,CAL FIRE,Tristania Conferta,2115 15th street ,,Long Beach,Public,-118.16553,33.78636, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+411.0,CAL FIRE,Chitalpa tashkentensis,2906 15th street ,,Long Beach,Public,-118.16583,33.7862, 6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+412.0,CAL FIRE,Chitalpa tashkentensis,2912 15th street ,,Long Beach,Public,-118.15767,33.78619, 6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+413.0,CAL FIRE,Pistacia Chinensis,2844 15th street ,,Long Beach,Public,-118.157504,33.78614, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+414.0,CAL FIRE,Pistacia Chinensis,2840 15th street ,,Long Beach,Public,-118.157906,33.78614, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+415.0,CAL FIRE,Tristania Conferta,2836 15th street ,,Long Beach,Public,-118.158007,33.78661, 6037575101,1A,2020-05-05,,Conservation Corps of Long Beach
+416.0,CAL FIRE,Tristania Conferta,17th street/obispo ,,Long Beach,Public,-118.15874,33.78801,6037573403,1A,2020-05-06,,Conservation Corps of Long Beach
+417.0,CAL FIRE,Tristania Conferta,17th street/obispo ,,Long Beach,Public,-118.15865,33.78795,6037573403,1A,2020-05-06,,Conservation Corps of Long Beach
+418.0,CAL FIRE,Tristania Conferta,2819 17th street ,,Long Beach,Public,-118.15853,33.78795,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+419.0,CAL FIRE,Tristania Conferta,2819 17th street ,,Long Beach,Public,-118.15844,33.78399,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+420.0,CAL FIRE,Tristania Conferta,2901 17th street ,,Long Beach,Public,-118.15811,33.78796,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+421.0,CAL FIRE,Tristania Conferta,2901 17th street ,,Long Beach,Public,-118.15791,33.78799,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+422.0,CAL FIRE,Tristania Conferta,2901 17th street ,,Long Beach,Public,-118.15783,33.78796,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+423.0,CAL FIRE,Tristania Conferta,2901 17th street ,,Long Beach,Public,-118.15779,33.78797,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+424.0,CAL FIRE,Tristania Conferta,2901 17th street ,,Long Beach,Public,-118.15767,33.89797,6037575101,1A,2020-05-06,,Conservation Corps of Long Beach
+425.0,CAL FIRE,Tristania Conferta,2905 17th street ,,Long Beach,Public,-118.15755,33.78798,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+426.0,CAL FIRE,Tristania Conferta,2905 17th street ,,Long Beach,Public,-118.15744,33.78801,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+427.0,CAL FIRE,Tristania Conferta,2925 17th street ,,Long Beach,Public,-118.15721,33.78799,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+428.0,CAL FIRE,Brachychiton Populneus,2925 17th street ,,Long Beach,Public,-118.15709,33.788,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+429.0,CAL FIRE,Brachychiton Populneus,3524 15th street,,Long Beach,Public,-118.15067,33.78571,6037575103,1A,2020-05-07,,Conservation Corps of Long Beach
+430.0,CAL FIRE,Quercus Douglas,2799 15th street ,,Long Beach,Public,-118.15903,33.78639,6037575103,1A,2020-05-07,,Conservation Corps of Long Beach
+431.0,CAL FIRE,Tristania Laurica,1761 Gladys street,,Long Beach,Public,-118.15797,33.78917,6037575101,1A,2020-05-07,,Conservation Corps of Long Beach
+432.0,CAL FIRE,Querus Ilex,1763 rose ave ,,Long Beach,Public,-118.16977,33.78926,6037575202,1A,2020-05-07,,Conservation Corps of Long Beach
+433.0,CAL FIRE,Querus Ilex ,1777 rose ave ,,Long Beach,Public,-118.16993,33.78949,6037575202,1A,2020-05-07,,Conservation Corps of Long Beach
+434.0,CAL FIRE,lagerstroemia indica,1765 pine ave,,Long Beach,Public,-118.19251,33.78925,6037575202,1A,2020-05-28,,Conservation Corps of Long Beach
+435.0,CAL FIRE,lagerstroemia indica,1709 lewis ave,,Long Beach,Public,-118.17939,33.78845,6037575201,1A,2020-05-28,,Conservation Corps of Long Beach
+436.0,CAL FIRE,lagerstroemia indica,1725 lewis ave,,Long Beach,Public,-118.17978,33.78885,6037575201,1A,2020-05-28,,Conservation Corps of Long Beach
+437.0,CAL FIRE,lagerstroemia indica,1063 15th street ,across from,Long Beach,Public,-118.17945,33.78647,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+438.0,CAL FIRE,lagerstroemia indica,1025 15th street,,Long Beach,Public,-118.17937,33.78599,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+439.0,CAL FIRE,lagerstroemia indica,1063 15th street ,,Long Beach,Public,-118.17925,33.78648,6037575201,1A,2020-05-28,,Conservation Corps of Long Beach
+440.0,CAL FIRE,lagerstroemia indica,1073 15th street,,Long Beach,Public,-118.17904,33.78637,6037575201,1A,2020-05-28,,Conservation Corps of Long Beach
+441.0,CAL FIRE,lagerstroemia indica,1073 15th street,,Long Beach,Public,-118.17899,33.78639,6037575201,1A,2020-05-28,,Conservation Corps of Long Beach
+442.0,CAL FIRE,lagerstroemia indica,1077 15th street,,Long Beach,Public,-118.17908,33.78631,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+443.0,CAL FIRE,lagerstroemia indica,1121 15th street ,,Long Beach,Public,-118.17827,33.78639,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+444.0,CAL FIRE,lagerstroemia indica,1129 15th street,,Long Beach,Public,-118.17817,33.78613,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+445.0,CAL FIRE,lagerstroemia indica,1135 15th street,,Long Beach,Public,-118.17818,33.78633,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+446.0,CAL FIRE,lagerstroemia indica,1167 15th street,,Long Beach,Public,-118.17786,33.78626,6037575201,1A,2020-06-02,,Conservation Corps of Long Beach
+447.0,CAL FIRE,lagerstroemia indica,1584 elm ave ,,Long Beach,Public,-118.1779,33.78621,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+448.0,CAL FIRE,lagerstroemia indica,533 Esther st ,,Long Beach,Public,-118.18586,33.78899,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+449.0,CAL FIRE,lagerstroemia indica,420 17th street,,Long Beach,Public,-118.18756,33.78797,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+450.0,CAL FIRE,lagerstroemia indica,423 Esther st,,Long Beach,Public,-118.18755,33.78901,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+451.0,CAL FIRE,lagerstroemia indica,415 esther st,,Long Beach,Public,-118.18762,33.78902,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+452.0,CAL FIRE,lagerstroemia indica,1595 elm avev,,Long Beach,Public,-118.18825,33.78995,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+453.0,CAL FIRE,lagerstroemia indica,405 Esther st,,Long Beach,Public,-118.18782,33.78902,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+454.0,CAL FIRE,lagerstroemia indica,414 Esther st ,,Long Beach,Public,-118.18761,33.78894,6037575300,1A,2020-06-03,,Conservation Corps of Long Beach
+455.0,,Brachychiton populneus,1880 Cedar Ave,,Long Beach,Public,-118.195,33.7913,6007000700,1A,2020-06-29,15-Gallon,Conservation Corps of Long Beach
+456.0,,Brachychiton populneus,1864 Cedar Ave,,Long Beach,Public,-118.195,33.7911,6007000700,1A,2020-06-29,15-Gallon,Conservation Corps of Long Beach
+457.0,,Brachychiton populneus,1864 Cedar Ave,,Long Beach,Public,-118.195,33.7911,6007000700,1A,2020-06-30,15-Gallon,Conservation Corps of Long Beach
+458.0,,Brachychiton populneus,1856 Cedar Ave,,Long Beach,Public,-118.195,33.791,6007000700,1A,2020-07-20,15-Gallon,Conservation Corps of Long Beach
+459.0,,Brachychiton populneus,1832 Cedar Ave,,Long Beach,Public,-118.195,33.7903,6007000700,1A,2020-07-20,15-Gallon,Conservation Corps of Long Beach
+460.0,,Brachychiton populneus,1833 Cedar Ave,,Long Beach,Public,-118.1951,33.7903,6007000700,1A,2020-07-20,15-Gallon,Conservation Corps of Long Beach
+461.0,,Brachychiton populneus,1827 Cedar ave,,Long Beach,Public,-118.1952,33.7904,6007000700,1A,2020-07-20,15-Gallon,Conservation Corps of Long Beach
+462.0,,Brachychiton populneus,1875 Cedar Ave,,Long Beach,Public,-118.1951,33.7913,6007000700,1A,2020-07-20,15-Gallon,Conservation Corps of Long Beach
+463.0,,Brachychiton populneus,1885 Cedar Ave,,Long Beach,Public,-118.1952,33.7914,6007000700,1A,2020-07-20,15-Gallon,Conservation Corps of Long Beach
+464.0,,Brachychiton populneus,1895  Cedar Ave,,Long Beach,Public,-118.1953,33.7917,6007000700,1A,2020-07-21,15-Gallon,Conservation Corps of Long Beach
+465.0,,Brachychiton populneus,1895  Cedar Ave,on the side,Long Beach,Public,-118.1954,33.7916,6007000700,1A,2020-07-21,15-Gallon,Conservation Corps of Long Beach
+466.0,,Brachychiton populneus,1895  Cedar Ave,on the side,Long Beach,Public,-118.1955,33.7916,6007000700,1A,2020-07-21,15-Gallon,Conservation Corps of Long Beach
+467.0,,Brachychiton populneus,1895  Cedar Ave,on the side,Long Beach,Public,-118.1956,33.7916,6007000700,1A,2020-07-21,15-Gallon,Conservation Corps of Long Beach
+468.0,,Lagerstroemia indica,1890 Chestnut Ave,,Long Beach,Public,-118.1964,33.7915,6007000700,1A,2020-06-30,15-Gallon,Conservation Corps of Long Beach
+469.0,,Lagerstroemia indica,1890 Chestnut Ave,,Long Beach,Public,-118.1964,33.7915,6007000700,1A,2020-06-30,15-Gallon,Conservation Corps of Long Beach
+470.0,,Lagerstroemia indica,1884 Chestnut Ave,,Long Beach,Public,-118.1964,33.7914,6007000700,1A,2020-07-01,15-Gallon,Conservation Corps of Long Beach
+471.0,,Lagerstroemia indica,1864 Chestnut Ave,,Long Beach,Public,-118.1964,33.7911,6007000700,1A,2020-06-30,15-Gallon,Conservation Corps of Long Beach
+472.0,,Lagerstroemia indica,1864 Chestnut Ave,,Long Beach,Public,-118.1963,33.791,6007000700,1A,2020-06-30,15-Gallon,Conservation Corps of Long Beach
+473.0,,Lagerstroemia indica,1835 Chestnut Ave,,Long Beach,Public,-118.1965,33.7905,6007000700,1A,2020-06-30,15-Gallon,Conservation Corps of Long Beach
+474.0,,Lagerstroemia indica,1871 Chestnut Ave,,Long Beach,Public,-118.1965,33.7913,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+475.0,,Lagerstroemia indica,1885 Chestnut Ave,,Long Beach,Public,-118.1965,33.7913,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+476.0,,Lagerstroemia indica,1891 Chestnut Ave,,Long Beach,Public,-118.1966,33.7916,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+477.0,,Lagerstroemia indica,422 W 19th st,,Long Beach,Public,-118.1969,33.7916,6007000700,1A,2020-07-01,15-Gallon,Conservation Corps of Long Beach
+478.0,,Quercus virginana,1866 Henderson Ave,,Long Beach,Public,-118.1976,33.7911,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+479.0,,Quercus virginana,1850 Henderson Ave,,Long Beach,Public,-118.1976,33.7908,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+480.0,,Quercus virginana,1840 Henderson Ave,,Long Beach,Public,-118.1975,33.7907,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+481.0,,Quercus virginana,1876 Henderson Ave,Across of,Long Beach,Public,-118.1977,33.7913,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+482.0,,Quercus virginana,1888 Magnolia ave,,Long Beach,Public,-118.1977,33.7915,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+483.0,,Lagerstroemia indica,1896 Magnolia Ave,,Long Beach,Public,-118.198,33.7915,6007000700,1A,2020-07-01,15-Gallon,Conservation Corps of Long Beach
+484.0,,Lagerstroemia indica,1880 Magnolia Ave,,Long Beach,Public,-118.198,33.7913,6007000700,1A,2020-07-01,15-Gallon,Conservation Corps of Long Beach
+485.0,,Lagerstroemia indica,1880 Magnolia Ave,,Long Beach,Public,-118.198,33.7913,6007000700,1A,2020-07-01,15-Gallon,Conservation Corps of Long Beach
+486.0,,Lagerstroemia indica,1858 Magnolia Ave,,Long Beach,Public,-118.198,33.7909,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+487.0,,Lagerstroemia indica,1854 Magnolia Ave,,Long Beach,Public,-118.198,33.7909,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+488.0,,Brachychiton populneus,1924 Cedar ave,,Long Beach,Public,-118.19482,33.79233,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+489.0,,Brachychiton populneus,1934 Cedar Ave,,Long Beach,Public,-118.1949,33.79233,6007000700,1A,2020-07-21,15-Gallon,Conservation Corps of Long Beach
+490.0,,Brachychiton populneus,1942 Cedar Ave,,Long Beach,Public,-118.195,33.79255,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+491.0,,Brachychiton populneus,1972 Cedar Ave,,Long Beach,Public,-118.19516,33.79313,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+492.0,,Brachychiton populneus,1985 Cedar Ave,,Long Beach,Public,-118.19504,33.79305,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+493.0,,Brachychiton populneus,1945 Cedar Ave,,Long Beach,Public,-118.19502,33.79263,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+494.0,,Lagerstroemia indica,431 W 19th st,,Long Beach,Public,-118.19723,33.79176,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+495.0,,Lagerstroemia indica,1940 Henderson,Across of,Long Beach,Public,-118.19756,33.79248,6007000700,1A,2020-07-06,15-Gallon,Conservation Corps of Long Beach
+496.0,,Lagerstroemia indica,1916 Magnolia Ave,,Long Beach,Public,-118.19802,33.7922,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+497.0,,Lagerstroemia indica,1934 Magnolia Ave,,Long Beach,Public,-118.19805,33.79231,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+498.0,,Lagerstroemia indica,1974 Magnolia Ave,,Long Beach,Public,-118.19818,33.79339,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+499.0,,Lagerstroemia indica,1879 Magnolia Ave,,Long Beach,Public,-118.19806,33.79132,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+500.0,,Lagerstroemia indica,1851 Magnolia Ave,,Long Beach,Public,-118.19807,33.79082,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+501.0,,Lagerstroemia indica,1831 Magnolia Ave,,Long Beach,Public,-118.19795,33.79044,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+502.0,,Brachychiton populneus,2067 Cedar Ave,,Long Beach,Public,-118.19473,33.79486,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+503.0,,Brachychiton populneus,2059 Cedar  Ave,,Long Beach,Public,-118.19487,33.79464,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+504.0,,Brachychiton populneus,2059 Cedar  Ave,,Long Beach,Public,-118.19487,33.7946,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+505.0,,Brachychiton populneus,2041 Cedar Ave,,Long Beach,Public,-118.19484,33.79427,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+506.0,,Quercus virginana,2024 Chestnut Ave,,Long Beach,Public,-118.19581,33.79401,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+507.0,,Quercus virginana,2032 Chestnut Ave,,Long Beach,Public,-118.19581,33.79414,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+508.0,,Anlus Rhombifolia,2083 Chestnut ave,Next to ,Long Beach,Public,-118.1958,33.79506,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+509.0,,Anlus Rhombifolia,2083 Chestnut ave,,Long Beach,Public,-118.19588,33.795,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+510.0,,Anlus Rhombifolia,2201 Chestnut Ave ,on the side,Long Beach,Public,-118.1961,33.79352,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+511.0,,Anlus Rhombifolia,222 W Hill St,,Long Beach,Public,-118.19408,33.79636,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+512.0,,Anlus Rhombifolia,300 W 21st St,,Long Beach,Public,-118.195,33.79517,6007000700,1A,2020-07-13,15-Gallon,Conservation Corps of Long Beach
+513.0,,Quercus virginana,2120 Chestnut Ave,,Long Beach,Public,-118.1959,33.79589,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+514.0,,Quercus virginana,2124 Chestnut Ave,,Long Beach,Public,-118.1958,33.79585,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+515.0,,Quercus virginana,2140 Chestnut Ave,,Long Beach,Public,-118.19592,33.79628,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+516.0,,Quercus virginana,2151 Chestnut Ave,,Long Beach,Public,-118.19535,33.79639,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+517.0,,Quercus virginana,2109 Chestnut Ave,,Long Beach,Public,-118.19593,33.79563,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+518.0,,Quercus virginana,481 W 21st st,,Long Beach,Public,-118.19762,33.79526,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+519.0,,Quercus virginana,483 W 21st St,across of ,Long Beach,Public,-118.19779,33.79521,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+520.0,,Quercus virginana,481 W 21st st,across of ,Long Beach,Public,-118.19774,33.79522,6007000700,1A,2020-07-07,15-Gallon,Conservation Corps of Long Beach
+521.0,,Quercus virginana,327 W Hill St.,,Long Beach,Public,-118.19551,33.79738,6007000700,1A,2020-07-08,15-Gallon,Conservation Corps of Long Beach
+522.0,,Anlus Rhombifolia,2140 Linden ave,,Long Beach,Public,-118.18608,33.79613,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+523.0,,Anlus Rhombifolia,2154 Linden Ave,,Long Beach,Public,-118.186,33.79634,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+524.0,,Anlus Rhombifolia,2156 Linden Ave,,Long Beach,Public,-118.1861,33.79631,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+525.0,,Anlus Rhombifolia,2174 Linden ave,,Long Beach,Public,-118.18602,33.79673,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+526.0,,Anlus Rhombifolia,439 E 19th St,on the side,Long Beach,Public,-118.18712,33.79178,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+527.0,,Anlus Rhombifolia,441 E Rhea St,on the side,Long Beach,Public,-118.18721,33.79268,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+528.0,,Anlus Rhombifolia,1971 Pasadena,,Long Beach,Public,-118.18728,33.79295,6007000700,1A,2020-07-15,15-Gallon,Conservation Corps of Long Beach
+529.0,,Anlus Rhombifolia,436 E 20th St,,Long Beach,Public,-118.18722,33.79328,6007000700,1A,2020-07-16,15-Gallon,Conservation Corps of Long Beach
+530.0,,Anlus Rhombifolia,408 E 20th st,,Long Beach,Public,-118.188,33.79325,6007000700,1A,2020-07-16,15-Gallon,Conservation Corps of Long Beach
+531.0,,Anlus Rhombifolia,408 E 20th st,,Long Beach,Public,-118.18803,33.79357,6007000700,1A,2020-07-16,15-Gallon,Conservation Corps of Long Beach
+532.0,,Anlus Rhombifolia,505 E 19TH ST,,Long Beach,Public,-118.18698,33.79181,6007000700,1A,2020-07-16,15-Gallon,Conservation Corps of Long Beach
+533.0,,Anlus Rhombifolia,566 E 19th St,,Long Beach,Public,-118.18578,33.79175,6007000700,1A,2020-07-16,15-Gallon,Conservation Corps of Long Beach
+534.0,,Anlus Rhombifolia,1877 E 19th St , across of,Long Beach,Public,-118.18525,33.79161,6007000700,1A,2020-07-27,15-Gallon,Conservation Corps of Long Beach
+535.0,,Anlus Rhombifolia,1877 E 19th St ,across of,Long Beach,Public,-118.18541,33.79173,6007000700,1A,2020-07-27,15-Gallon,Conservation Corps of Long Beach
+536.0,,Anlus Rhombifolia,533 E 19th St,,Long Beach,Public,-118.18645,33.79171,6007000700,1A,2020-07-27,15-Gallon,Conservation Corps of Long Beach
+537.0,,Anlus Rhombifolia,525 E Rhea St,,Long Beach,Public,-118.18661,33.79262,6007000700,1A,2020-07-27,15-Gallon,Conservation Corps of Long Beach
+538.0,,Lagerstroemia indica,2010 Magnolia Ave,,Long Beach,Public,-118.19718,33.79389,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+539.0,,Lagerstroemia indica,2022 Magnolia Ave,,Long Beach,Public,188.19773,33.79402,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+540.0,,Lagerstroemia indica,2050 Magnolia Ave,,Long Beach,Public,-118.19791,33.79455,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+541.0,,Lagerstroemia indica,2116 Magnolia Ave,,Long Beach,Public,-118.19782,33.79565,6007000700,1A,2020-07-16,15-Gallon,Conservation Corps of Long Beach
+542.0,,Lagerstroemia indica,2150 Magnolia Ave,,Long Beach,Public,-118.1978,33.79622,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+543.0,,Lagerstroemia indica,2149 Magnolia Ave,,Long Beach,Public,-118.0634,33.79616,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+544.0,,Lagerstroemia indica,2101 Magnolia Ave,,Long Beach,Public,-118.19825,33.79609,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+545.0,,Lagerstroemia indica,2061 Magnolia Ave,,Long Beach,Public,-118.19795,33.79446,6007000700,1A,2020-07-09,15-Gallon,Conservation Corps of Long Beach
+546.0,,Lagerstroemia indica,1954 Daisy Ave,,Long Beach,Public,-118.19903,33.79286,6007000700,1A,2020-07-22,15-Gallon,Conservation Corps of Long Beach
+547.0,,Lagerstroemia indica,2052 Daisy Ave,,Long Beach,Public,-118.19877,33.79451,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+548.0,,Lagerstroemia indica,2078 Daisy Ave,,Long Beach,Public,-118.1996,33.79292,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+549.0,,Lagerstroemia indica,2100 Daisy Ave,,Long Beach,Public,-118.19887,33.78535,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+550.0,,Lagerstroemia indica,2106 Daisy Ave,,Long Beach,Public,188.19928,33.79564,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+551.0,,Lagerstroemia indica,2100 Daisy Ave,ON SIDE OF,Long Beach,Public,-118.19898,33.79539,6007000700,1A,2020-07-28,15-Gallon,Conservation Corps of Long Beach
+552.0,,Lagerstroemia indica,2175 Daisy Ave,,Long Beach,Public,-118.1995,33.79673,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+553.0,,Lagerstroemia indica,2119 Daisy Ave,,Long Beach,Public,-118.19953,33.7926,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+554.0,,Lagerstroemia indica,1943 Daisy Ave,,Long Beach,Public,-118.19959,33.79253,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+555.0,,Catalpa bignonoides,1869 Maine Ave,,Long Beach,Public,-118.20062,33.79108,6007000700,1A,2020-07-29,15-Gallon,Conservation Corps of Long Beach
+556.0,,Eucalyptus nicholii,1869 Golden Ave,,Long Beach,Public,-118.20246,33.79115,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+557.0,,Eucalyptus nicholii,1900 Golden Ave,on the side,Long Beach,Public,-118.20218,33.79178,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+558.0,,Eucalyptus nicholii,1926 Oregon Ave,,Long Beach,Public,-118.20162,33.79227,6007000700,1A,2020-07-23,15-Gallon,Conservation Corps of Long Beach
+559.0,,Cinnamomum camphora ,1617 Stanton Ave,,Long Beach,Public,-118.16491,33.78786,6007000700,1A,2020-07-28,15-Gallon,Conservation Corps of Long Beach
+560.0,,Cinnamomum camphora ,1617 Stanton Ave,,Long Beach,Public,-118.1649,33.78778,6007000700,1A,2020-07-28,15-Gallon,Conservation Corps of Long Beach
+561.0,,Cinnamomum camphora ,1615 Stanton Ave,,Long Beach,Public,-118.16432,33.78764,6007000700,1A,2020-07-28,15-Gallon,Conservation Corps of Long Beach
+562.0,,Cinnamomum camphora ,1615 Stanton Ave,,Long Beach,Public,-118.1649,33.78759,6007000700,1A,2020-07-29,15-Gallon,Conservation Corps of Long Beach
+563.0,,Cinnamomum camphora ,1613 Stanton Ave,,Long Beach,Public,-118.16485,33.78755,6007000700,1A,2020-07-29,15-Gallon,Conservation Corps of Long Beach
+564.0,,Cinnamomum camphora ,1613 Stanton Ave,,Long Beach,Public,-118.16488,33.78754,6007000700,1A,2020-07-29,15-Gallon,Conservation Corps of Long Beach
+565.0,,Anlus Rhombifolia,1044 New York St,,Long Beach,Public,-118.17957,33.78485,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+566.0,,Anlus Rhombifolia,1160 New York St,,Long Beach,Public,-118.17756,33.78509,6007000700,1A,2020-08-04,15-Gallon,Conservation Corps of Long Beach
+567.0,,Anlus Rhombifolia,1169 New York st,,Long Beach,Public,-118.1777,33.78495,6007000700,1A,2020-08-04,15-Gallon,Conservation Corps of Long Beach
+568.0,,Anlus Rhombifolia,1115 New York Street,,Long Beach,Public,-118.17846,33.78505,6007000700,1A,2020-08-04,15-Gallon,Conservation Corps of Long Beach
+569.0,,Anlus Rhombifolia,1051 New York Street,,Long Beach,Public,-118.1793,33.78508,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+570.0,,Anlus Rhombifolia,1043 New York Street,,Long Beach,Public,-118.17955,33.78509,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+571.0,,Anlus Rhombifolia,1469 Temple Ave,,Long Beach,Public,-118.18599,33.78615,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+572.0,,Anlus Rhombifolia,1463 Temple Ave,,Long Beach,Public,-118.15897,33.78567,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+573.0,,Alnus cordate,1348 Raymond Ave,,Long Beach,Public,-118.16409,33.78362,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+574.0,,Alnus cordate,1330 Raymond Ave,,Long Beach,Public,-118.16929,33.78343,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+575.0,,Alnus cordate,1333 Raymond Ave,,Long Beach,Public,-118.16434,33.78341,6007000700,1A,2020-07-30,15-Gallon,Conservation Corps of Long Beach
+576.0,,Pistacia chinensis ,1826 Pine Ave,,Long Beach,Public,-118.19241,33.79059,6007000700,1A,2020-08-11,15-Gallon,Conservation Corps of Long Beach
+577.0,,Pistacia chinensis ,2001 Locust Ave. ,on the side,Long Beach,Public,-118.19094,33.7935,6007000700,1A,2020-08-11,15-Gallon,Conservation Corps of Long Beach
+578.0,,Pistacia chinensis ,125 E 20th st,,Long Beach,Public,-118.19162,33.79352,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+579.0,,Pistacia chinensis ,113 E 20th St,,Long Beach,Public,-118.19196,33.79357,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+580.0,,Pistacia chinensis ,2016 Pine Ave,,Long Beach,Public,-118.19235,33.79391,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+581.0,,Pistacia chinensis ,2019 Locust Ave,,Long Beach,Public,-118.19089,33.79388,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+582.0,,Schinus molle ,2021 Pine Ave,,Long Beach,Public,-118.19239,33.79389,6007000700,1A,2020-08-18,15-Gallon,Conservation Corps of Long Beach
+583.0,,Schinus molle ,2021 Pine Ave,,Long Beach,Public,-118.19249,33.79396,6007000700,1A,2020-08-18,15-Gallon,Conservation Corps of Long Beach
+584.0,,Schinus molle ,2025 Pine Ave,,Long Beach,Public,-118.19248,33.79403,6007000700,1A,2020-08-18,15-Gallon,Conservation Corps of Long Beach
+585.0,,Schinus molle ,2035 Pine Ave,,Long Beach,Public,-118.19248,33.79415,6007000700,1A,2020-08-18,15-Gallon,Conservation Corps of Long Beach
+586.0,,Tristania conferta ,2135 Pine Ave,,Long Beach,Public,-118.19246,33.79601,6007000700,1A,2020-08-11,15-Gallon,Conservation Corps of Long Beach
+587.0,,Tristania conferta ,219 E HillSt,,Long Beach,Public,-118.19008,33.79715,6007000700,1A,2020-08-11,15-Gallon,Conservation Corps of Long Beach
+588.0,,Tristania conferta ,2190 Locust Ave,,Long Beach,Public,-118.1905,33.79678,6007000700,1A,2020-08-11,15-Gallon,Conservation Corps of Long Beach
+589.0,,Tristania conferta ,2176 Locust Ave,,Long Beach,Public,-118.19044,33.79668,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+590.0,,Tristania conferta ,2158 Locust Ave,,Long Beach,Public,-118.1906,33.79647,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+591.0,,Tristania conferta ,2156 Locust Ave,,Long Beach,Public,-118.19046,33.7964,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+592.0,,Tristania conferta ,2136 Locust Ave,,Long Beach,Public,-118.19051,33.79606,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+593.0,,Pistacia chinensis ,2120 Locust Ave,,Long Beach,Public,-118.19013,33.79537,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+594.0,,Pistacia chinensis ,2120 Locust Ave,,Long Beach,Public,-118.19013,33.79557,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+595.0,,Pistacia chinensis ,2112 Locust Ave,,Long Beach,Public,-118.19054,33.79561,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+596.0,,Pistacia chinensis ,2100 Locust Ave,,Long Beach,Public,-118.1905,33.79549,6007000700,1A,2020-08-12,15-Gallon,Conservation Corps of Long Beach
+597.0,,Pistacia chinensis ,236 E 21st St,,Long Beach,Public,-118.19034,33.79542,6007000700,1A,2020-08-18,15-Gallon,Conservation Corps of Long Beach
+598.0,,Pistacia chinensis ,232 E 21st St,,Long Beach,Public,-118.19043,33.79532,6007000700,1A,2020-08-18,15-Gallon,Conservation Corps of Long Beach
+599.0,,Pistacia chinensis ,2117 Locust Ave,,Long Beach,Public,-118.19059,33.79557,6007000700,1A,2020-08-13,15-Gallon,Conservation Corps of Long Beach
+600.0,,Pistacia chinensis ,2117 Locust Ave,,Long Beach,Public,-118.19062,33.79564,6007000700,1A,2020-08-13,15-Gallon,Conservation Corps of Long Beach
+601.0,,Tristania conferta ,2145 Locust Ave,,Long Beach,Public,118.19062,33.79621,6007000700,1A,2020-08-13,15-Gallon,Conservation Corps of Long Beach
+602.0,,Tristania conferta ,2175 Locust Ave,,Long Beach,Public,-118.19049,33.79694,6007000700,1A,2020-08-13,15-Gallon,Conservation Corps of Long Beach
+603.0,,Gleditsia tricanthos ,1922 Pine Ave,,Long Beach,Public,-118.192515,33.792481,6007000700,1A,2020-08-27,15-Gallon,Conservation Corps of Long Beach
+604.0,,Gleditsia tricanthos ,1868 Pine Ave,,Long Beach,Public,-118.1924,33.791358,6007000700,1A,2020-08-27,15-Gallon,Conservation Corps of Long Beach
+605.0,,Pistacia chinensis ,2058 Pine ave,,Long Beach,Public,-118.19246,33.7948,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+606.0,,Quercus ilex ,1977 Pine Ave,,Long Beach,Public,-118.19235,33.79358,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+607.0,,Quercus ilex ,1970 Pine Ave.,,Long Beach,Public,-118.19239,33.79342,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+608.0,,Quercus ilex ,1871 Pine Ave,,Long Beach,Public,-118.19251,33.79133,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+609.0,,Quercus ilex ,1863 Pine Ave ,,Long Beach,Public,-118.19231,33.791176,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+610.0,,Tristania conferta ,111 E 20th st,,Long Beach,Public,-118.19255,33.793481,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+611.0,,Tristania conferta ,128 E 20th St,,Long Beach,Public,-118.19318,33.79341,6007000700,1A,2020-08-20,15-Gallon,Conservation Corps of Long Beach
+612.0,,Tristania conferta ,2105 Locust Ave,on the side,Long Beach,Public,-118.19078,33.79524,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+613.0,,Tristania conferta ,2182 Earl Ave,,Long Beach,Public,-118.19142,33.7968,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+614.0,,Tristania conferta ,2166 Earl Ave,,Long Beach,Public,-118.19166,33.796537,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+615.0,,Tristania conferta ,2164 Earl Ave,,Long Beach,Public,-118.19155,33.796551,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+616.0,,Tristania conferta ,2150 Earl Ave,,Long Beach,Public,-118.19158,33.796333,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+617.0,,Tristania conferta ,2142 Earl Ave,,Long Beach,Public,-118.19162,33.796133,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+618.0,,Tristania conferta ,2108 Earl Ave,,Long Beach,Public,-118.19161,33.79548,6007000700,1A,2020-08-25,15-Gallon,Conservation Corps of Long Beach
+619.0,,Tristania conferta ,2104 Earl Ave,,Long Beach,Public,-118.19161,33.795484,6007000700,1A,2020-08-25,15-Gallon,Conservation Corps of Long Beach
+620.0,,Tristania conferta ,2100 Earl Ave,on the side,Long Beach,Public,-118.19115,33.795326,6007000700,1A,2020-09-02,15-Gallon,Conservation Corps of Long Beach
+621.0,,Tristania conferta ,2149 Earl Ave,,Long Beach,Public,-118.19163,33.796292,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+622.0,,Tristania conferta ,2153 Earl Ave,,Long Beach,Public,-118.19163,33.796302,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+623.0,,Tristania conferta ,2159 Earl Ave,,Long Beach,Public,-118.19162,33.796381,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+624.0,,Tristania conferta ,2159 Earl Ave,,Long Beach,Public,-118.1917,33.796429,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+625.0,,Tristania conferta ,2192 Pine Ave,On the side,Long Beach,Public,-118.19238,33.797097,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+626.0,,Tristania conferta ,2174 Pine Ave,,Long Beach,Public,-118.19245,33.796664,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+627.0,,Tristania conferta ,2101 Earl Ave,,Long Beach,Public,-118.19171,33.795443,6007000700,1A,2020-08-24,15-Gallon,Conservation Corps of Long Beach
+628.0,,Quercus ilex ,1872 Locust ave,,Long Beach,Public,-118.19123,33.791294,6007000700,1A,2020-08-25,15-Gallon,Conservation Corps of Long Beach
+629.0,,Quercus ilex ,1886 Locust Ave,,Long Beach,Public,-118.19114,33.791716,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+630.0,,Quercus ilex ,200 E 20th St,,Long Beach,Public,-118.19064,33.793629,6007000700,1A,2020-09-02,15-Gallon,Conservation Corps of Long Beach
+631.0,,Quercus ilex ,208 E 20th St,,Long Beach,Public,-118.19052,33.793644,6007000700,1A,2020-09-02,15-Gallon,Conservation Corps of Long Beach
+632.0,,Quercus ilex ,1845 Locust Ave,,Long Beach,Public,-118.19093,33.790785,6007000700,1A,2020-08-25,15-Gallon,Conservation Corps of Long Beach
+633.0,,Quercus ilex ,126 E 20th St,,Long Beach,Public,-118.1916,33.793515,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+634.0,,Quercus ilex ,112 E 20th St,,Long Beach,Public,-118.19191,33.793764,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+635.0,,Quercus ilex ,1904 Pine Ave,,Long Beach,Public,-118.19293,33.791931,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+636.0,,Quercus ilex ,1880 Pine Ave,,Long Beach,Public,-118.19233,33.791671,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+637.0,,Quercus ilex ,1868 Pine Ave,,Long Beach,Public,-118.1924,33.791358,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+638.0,,Quercus ilex ,1840 Pine Ave,,Long Beach,Public,-118.19246,33.790971,6007000700,1A,2020-08-26,15-Gallon,Conservation Corps of Long Beach
+639.0,,Quercus ilex ,1826 Pine Ave,,Long Beach,Public,-118.19241,33.790592,6007000700,1A,2020-08-25,15-Gallon,Conservation Corps of Long Beach
+640.0,,Brachychiton populneus,1816 Pasadena Ave,,Long Beach,Public,-118.18672,33.79023,6007000700,1A,2020-09-08,15-Gallon,Conservation Corps of Long Beach
+641.0,,Brachychiton populneus,1816 Pasadena Ave,,Long Beach,Public,-118.18715,33.79028,6007000700,1A,2020-09-08,15-Gallon,Conservation Corps of Long Beach
+642.0,,Brachychiton populneus,1828 Pasadena Ave,,Long Beach,Public,-118.18714,33.79439,6007000700,1A,2020-09-08,15-Gallon,Conservation Corps of Long Beach
+643.0,,Brachychiton populneus,1831 Pasadena Ave,,Long Beach,Public,-118.18726,33.79055,6007000700,1A,2020-09-08,15-Gallon,Conservation Corps of Long Beach
+644.0,,Brachychiton populneus,1831 Pasadena Ave,,Long Beach,Public,-118.18732,33.79042,6007000700,1A,2020-09-08,15-Gallon,Conservation Corps of Long Beach
+645.0,,Brachychiton populneus,2195 Pasadena Ave,,Long Beach,Public,-118.1874,33.7971,6007000700,1A,2020-09-08,15-Gallon,Conservation Corps of Long Beach
+646.0,,Quercus virginana,415 Dayman St,,Long Beach,Public,-118.1877,33.79075,6007000700,1A,2020-09-14,15-Gallon,Conservation Corps of Long Beach
+647.0,,Quercus virginana,1840 Pasadena Ave,on the side,Long Beach,Public,-118.1877,33.79075,6007000700,1A,2020-09-23,15-Gallon,Conservation Corps of Long Beach
+648.0,,Quercus virginana,1840 Pasadena Ave,on the side,Long Beach,Public,-118.18695,33.7907,6007000700,1A,2020-09-23,15-Gallon,Conservation Corps of Long Beach
+649.0,,Quercus virginana,570 Dayman St,,Long Beach,Public,-118.1853,33.79085,6007000700,1A,2020-09-10,15-Gallon,Conservation Corps of Long Beach
+650.0,,Quercus virginana,565 Dayman St,,Long Beach,Public,-118.18565,33.7908,6007000700,1A,2020-09-10,15-Gallon,Conservation Corps of Long Beach
+651.0,,Jacaranda mimosifolia ,2108 Linden Ave,,Long Beach,Public,-118.1861,33.79552,6007000700,1A,2020-09-17,15-Gallon,Conservation Corps of Long Beach
+652.0,,Jacaranda mimosifolia ,2118 Linden Ave,,Long Beach,Public,-118.18608,33.79562,6007000700,1A,2020-09-17,15-Gallon,Conservation Corps of Long Beach
+653.0,,Quercus virginana,439 E 19th St,on the side,Long Beach,Public,-118.18712,33.79178,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+654.0,,Jacaranda mimosifolia ,344 E 19th St,,Long Beach,Public,-118.18814,33.79159,6007000700,1A,2020-09-17,15-Gallon,Conservation Corps of Long Beach
+655.0,,Jacaranda mimosifolia ,2005 Linden Ave,,Long Beach,Public,-118.18618,33.7936,6007000700,1A,2020-09-17,15-Gallon,Conservation Corps of Long Beach
+656.0,,Jacaranda mimosifolia ,2085 Linden Ave,,Long Beach,Public,-118.18603,33.79502,6007000700,1A,2020-09-17,15-Gallon,Conservation Corps of Long Beach
+657.0,,Jacaranda mimosifolia ,2201  Elm Ave.,,Long Beach,Public,-118.18839,33.79731,6007000700,1A,2020-09-21,15-Gallon,Conservation Corps of Long Beach
+658.0,,Jacaranda mimosifolia ,2201 Pasadena Ave,on the side,Long Beach,Public,-118.18725,33.79711,6007000700,1A,2020-09-21,15-Gallon,Conservation Corps of Long Beach
+659.0,,Quercus virginana,421 Rhea St,,Long Beach,Public,-118.18771,33.79267,6007000700,1A,2020-09-10,15-Gallon,Conservation Corps of Long Beach
+660.0,,Quercus virginana,534 E 19th St,,Long Beach,Public,-118.1863,33.79173,6007000700,1A,2020-09-10,15-Gallon,Conservation Corps of Long Beach
+661.0,,Brachychiton populneus,570 Rhea St.,,Long Beach,Public,-118.1854,33.79255,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+662.0,,Brachychiton populneus,1990 Pasadena Ave,,Long Beach,Public,-118.18697,33.79342,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+663.0,,Brachychiton populneus,522 E 20th St,,Long Beach,Public,-118.18636,33.79336,6007000700,1A,2020-09-16,15-Gallon,Conservation Corps of Long Beach
+664.0,,Brachychiton populneus,345 E 19th St.,,Long Beach,Public,-118.18794,33.79197,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+665.0,,Brachychiton populneus,343 E 19th St,,Long Beach,Public,-118.18826,33.79159,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+666.0,,Brachychiton populneus,339 E 19th st,,Long Beach,Public,-118.18839,33.79164,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+667.0,,Brachychiton populneus,335 E 19th St,,Long Beach,Public,-118.18841,33.79159,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+668.0,,Brachychiton populneus,575 Rea St.,,Long Beach,Public,-118.1855,33.7927,6007000700,1A,2020-09-15,15-Gallon,Conservation Corps of Long Beach
+669.0,,Jacaranda mimosifolia ,344 E 19th St,,Long Beach,Public,-118.18814,33.79159,6007000700,1A,2020-09-14,15-Gallon,Conservation Corps of Long Beach
+670.0,,Jacaranda mimosifolia ,2085 Linden Ave,,Long Beach,Public,-118.18603,33.79502,6007000700,1A,2020-09-14,15-Gallon,Conservation Corps of Long Beach
+671.0,,Quercus virginana,2056 Linden Ave,,Long Beach,Public,-118.18606,33.79437,6007000700,1A,2020-09-14,15-Gallon,Conservation Corps of Long Beach
+672.0,,Quercus virginana,2042 Linden Ave,,Long Beach,Public,-118.18614,33.79451,6007000700,1A,2020-09-21,15-Gallon,Conservation Corps of Long Beach
+673.0,,Quercus virginana,2020 Linden Ave,,Long Beach,Public,-118.1861,33.79395,6007000700,1A,2020-09-16,15-Gallon,Conservation Corps of Long Beach
+674.0,,Quercus virginana,2201  Elm Ave.,,Long Beach,Public,-118.18839,33.79731,6007000700,1A,2020-09-16,15-Gallon,Conservation Corps of Long Beach
+675.0,,Brachychiton populneus,3524 15th st ,,Long Beach,Public,-118.15067,33.78571,6007000700,1A,2020-09-16,15-Gallon,Conservation Corps of Long Beach
+676.0,,Quercus virginana,2220 14th st,,Long Beach,Public,-118.16419,33.78442,6007000700,1A,2020-09-24,15-Gallon,Conservation Corps of Long Beach
+677.0,,Quercus virginana,2324 14th st,,Long Beach,Public,-118.16339,33.78453,6007000700,1A,2020-09-24,15-Gallon,Conservation Corps of Long Beach
+678.0,,Lagerstroemia indica,1431 Lewis ave,,Long Beach,Public,-118.1802,33.78506,6007000700,1A,2020-09-24,15-Gallon,Conservation Corps of Long Beach
+679.0,,Lagerstroemia indica,1469 Temple ave,across of ,Long Beach,Public,-118.18599,33.78615,6007000700,1A,2020-09-24,15-Gallon,Conservation Corps of Long Beach
+680.0,,Lagerstroemia indica,1375 Temple Ave,,Long Beach,Public,-118.15901,33.78416,6007000700,1A,2020-09-24,15-Gallon,Conservation Corps of Long Beach
+681.0,,Lagerstroemia indica,1715 Ohio Ave,,Long Beach,Public,-118.16018,33.7884,6007000700,1A,2020-09-24,15-Gallon,Conservation Corps of Long Beach
+682.0,CAL FIRE,Lagerstroemia indica,1709 Ohio Ave,,Long Beach,Public,-118.15983,33.78853,6037575101.0,1A,2020-10-01,,Conservation Corps of Long Beach
+683.0,CAL FIRE,Cinnamomum camphora,1514 Stanton Ave,,Long Beach,Public,-118.16464,33.78666,6037575101.0,1A,2020-10-01,,Conservation Corps of Long Beach
+684.0,CAL FIRE,Cinnamomum camphora,1514 Stanton Ave,,Long Beach,Public,-118.16467,33.78671,6037575101.0,1A,2020-10-01,,Conservation Corps of Long Beach
+685.0,CAL FIRE,Cinnamomum camphora,1610 Stanton Ave,,Long Beach,Public,-118.16461,33.78741,6037575101.0,1A,2020-10-01,,Conservation Corps of Long Beach
+686.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.19123,33.86901,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+687.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.1915,33.8687,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+688.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.19121,33.86888,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+689.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.19128,33.86876,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+690.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.19166,33.86869,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+691.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.19137,33.86898,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+692.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.19135,33.86869,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+693.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.19157,33.86867,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+694.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.19128,33.86865,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+695.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.19146,33.86879,6037570301.0,1A,2020-08-18,,Conservation Corps of Long Beach
+696.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.19323,33.86579,6037570301.0,1A,2020-08-19,,Conservation Corps of Long Beach
+697.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.19293,33.86624,6037570301.0,1A,2020-08-19,,Conservation Corps of Long Beach
+698.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.19336,33.86561,6037570301.0,1A,2020-08-19,,Conservation Corps of Long Beach
+699.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.19281,33.86633,6037570301.0,1A,2020-08-19,,Conservation Corps of Long Beach
+700.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.20074,33.85478,6037570304.0,1A,2020-08-19,,Conservation Corps of Long Beach
+701.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.20065,33.85482,6037570304.0,1A,2020-08-19,,Conservation Corps of Long Beach
+702.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.20062,33.8549,6037570304.0,1A,2020-08-19,,Conservation Corps of Long Beach
+703.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20063,33.85514,6037570304.0,1A,2020-08-19,,Conservation Corps of Long Beach
+704.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20056,33.85522,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+705.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20047,33.85535,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+706.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20047,33.8553,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+707.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20074,33.85483,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+708.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.2007,33.8549,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+709.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20069,33.855,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+710.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20059,33.85511,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+711.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20063,33.85497,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+712.0,Match,Juglans Californica,6255 De Forest Ave,,Long Beach,Public,-118.20069,33.85476,6037570304.0,1A,2020-08-20,,Conservation Corps of Long Beach
+713.0,Match,Aesculus Californica,6255 De Forest Ave,,Long Beach,Public,-118.20081,33.85469,6037570304.0,1A,2020-08-24,,Conservation Corps of Long Beach
+714.0,Match,Aesculus Californica,6255 De Forest Ave,,Long Beach,Public,-118.20071,33.85465,6037570304.0,1A,2020-08-24,,Conservation Corps of Long Beach
+715.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.20128,33.85397,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+716.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.20105,33.85411,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+717.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.20126,33.85378,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+718.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.20123,33.85401,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+719.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20133,33.85363,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+720.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20133,33.85382,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+721.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20117,33.85414,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+722.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.2013,33.85371,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+723.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20139,33.85854,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+724.0,Match,Juglans Californica,6255 De Forest Ave,,Long Beach,Public,-118.20107,33.85407,6037571701.0,1A,2020-08-24,,Conservation Corps of Long Beach
+725.0,Match,Aesculus Californica,6255 De Forest Ave,,Long Beach,Public,-118.20111,33.85398,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+726.0,Match,Aesculus Californica,6255 De Forest Ave,,Long Beach,Public,-118.20116,33.85393,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+727.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.20225,33.84821,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+728.0,Match,Salix laevigata,6255 De Forest Ave,,Long Beach,Public,-118.2022,33.84065,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+729.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.20221,33.84835,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+730.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.2022,33.84782,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+731.0,CAL FIRE,Quercas Virginiana,6255 De Forest Ave,,Long Beach,Public,-118.2022,33.84775,6037571701.0,1A,2020-08-25,,Conservation Corps of Long Beach
+732.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20217,33.84852,6037571701.0,1A,2020-08-26,,Conservation Corps of Long Beach
+733.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20225,33.84829,6037571701.0,1A,2020-08-26,,Conservation Corps of Long Beach
+734.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.20222,33.84796,6037571701.0,1A,2020-08-26,,Conservation Corps of Long Beach
+735.0,CAL FIRE,Quercas Agrifolia,6255 De Forest Ave,,Long Beach,Public,-118.2022,33.84787,6037571701.0,1A,2020-08-26,,Conservation Corps of Long Beach
+736.0,Match,Juglans Californica,6255 De Forest Ave,,Long Beach,Public,-118.20224,33.84812,6037571701.0,1A,2020-08-26,,Conservation Corps of Long Beach
+737.0,Match,Quercas Lobata,6255 De Forest Ave,,Long Beach,Public,-118.20221,33.84767,6037571701.0,1A,2020-08-26,,Conservation Corps of Long Beach
